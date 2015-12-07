@@ -1,0 +1,716 @@
+@import 'inc';
+.mv {
+  background: url("/medi-caree/common/img/examination/mv.png") no-repeat center;
+}
+.container {
+  font-size: 15px;
+  line-height: 1.8;
+   background: url("/medi-caree/common/img/examination/bg.png");
+  .wrap {;
+    padding: 30px 0 20px 0;
+
+    .anchor {
+      text-align: center;
+      margin-top: 50px;
+      img {
+        margin-right: 40px;
+      }
+    }
+    h4 {
+        position: relative;
+        font-size: $fz45;
+        text-align: center;
+        line-height: 1.8em;
+        &:before {
+          background-color: #ff943c;
+          content: "";
+          display: block;
+          width: 100px;
+          height: 4px;
+          position: absolute;
+          left: 50%;
+          top: -20px;
+          margin-left: -50px;
+        }
+      }
+    .read {
+      line-height: 1.8;
+    }
+    .cont01 {
+      margin-top: 110px;
+      .c-cont01 {
+        margin-top: 50px;
+        .block01 {
+          dl {
+            display: table;
+            margin: 0;
+            background: #fff;
+            width: 100%;
+            border: 1px solid #e2e2e2;
+            border-top: none;
+            &:first-child {
+              border-top: 1px solid #e2e2e2;
+            }
+            dt {
+              display: table-cell;
+              font-weight: bold;
+              text-align: center;
+              width: 140px;
+              background: #fff1e5;
+              vertical-align: middle;
+            }
+            dd {
+              margin :0;
+              padding: 15px 20px;
+              .orange {
+                color: #ff943c;
+                font-size: 100%;
+                font-weight: bold;
+              }
+              .green {
+                color: #99cd4f;
+                font-weight: bold;
+              }
+              .aqua {
+                color: #4ac6e3;
+                font-weight: bold;
+              }
+              .blue {
+                color: #0d8dce;
+                font-weight: bold;
+              }
+              .pink {
+                color: #f46371;
+                font-weight: bold;
+              }
+              .notes {
+                font-size: 100%;
+              }
+              ul {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                li {
+                  list-style: none;
+                  span {
+                    color :#c6c6c6;
+                    font-size: 20px;
+                  }
+                }
+              }
+            }
+          }
+        }
+        .block02 {
+          margin: 55px 0 20px 0;
+          h5 {
+            color: #ff943c;
+            font-size: $fz24;
+          }
+          .c-block02 {
+            .left {
+              float: left;
+            }
+            .right {
+              float: right;
+            }
+            table {
+              width: 490px;
+              border: 1px solid #e2e2e2;
+              border-right: none;
+              background: #fff;
+              th {
+                width: 140px;
+                background: #fff1e5;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2;
+                vertical-align: middle;
+              }
+              td {
+                text-align:center;
+                vertical-align: middle;
+                width: 69px;
+                padding: 10px 0 10px 0px;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2; 
+              }
+            }
+          }
+        }
+      }
+    }
+    .cont02 {
+      margin-top: 100px;
+      .c-cont02 {
+        .block01 {
+          h5 {
+            color: #fff;
+            font-size: $fz25;
+            font-weight: bold;
+            width: 500px;
+            height: 50px;
+            line-height: 50px;
+            vertical-align: middle;
+            text-align: center;
+            margin: 0 auto;
+            margin-top: 50px;
+            background: url("/medi-caree/common/img/examination/bg_h5_cont02.png") no-repeat;
+          }
+          .c-block01 {
+            margin-top: 30px;
+            .read {
+              
+            }
+            table {
+              font-size: 15px;
+              width: 100%;
+              border: 1px solid #e2e2e2;
+              border-right: none;
+              background: #fff;
+              margin-top: 30px;
+               th {
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2;
+                padding: 2px 0;
+                vertical-align: middle;
+                &.first {
+                  width: 140px;
+                }
+                &.pink {
+                  background: #fff1e5;
+                }
+              }
+              td {
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2; 
+                text-align: center;
+                padding: 5px 0;
+                &.col {
+                  width: 429px;
+                }
+                span {
+                  &.orange {
+                    color: #ff943c;
+                    font-weight: bold;
+                    font-size: $fz17;
+                  }
+                  &.aqua {
+                    color: #4ac6e3;
+                  }
+                }
+              }
+            }
+            dl {
+              dt {
+                color: #f00;
+                font-weight: bold;
+                font-size: 21px;
+              }
+              dd {
+                font-size: 15px;
+                margin: 0;
+                span {
+                  color: #c6c6c6;
+                  font-size: 18px;
+                }
+              }
+            }
+          }
+        }
+        .block02 {
+          margin-top: 60px;
+          h5 {
+            color: #ff943c;
+            font-size: $fz24;
+            margin-bottom: 10px;
+          }
+          .c-block02 {
+             .left {
+              float: left;
+            }
+            .right {
+              float: right;
+            }
+            .read {
+              margin-bottom: 30px;
+            }
+            table {
+              width: 490px;
+              border: 1px solid #e2e2e2;
+              border-right: none;
+              background: #fff;
+              th {
+                text-align: center;
+                width: 200px;
+                padding: 10px 0;
+                background: #fff1e5;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2;
+                vertical-align: middle;
+              }
+              td {
+                text-align:center;
+                vertical-align: middle;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2; 
+              }
+            }
+          }
+          dl {
+            dt {
+              color: #ff943c;
+              font-size: 21px;;
+              font-weight: bold;
+            }
+            dd {
+              font-size: 18px;
+              line-height: 1.8;
+              margin: 0;
+              padding: 0;
+              a {
+                color: #63d195;
+              }
+            }
+          }
+        }
+        .block03 {
+          margin-top: 50px;
+          h5 {
+            color: #fff;
+            font-size: $fz24;
+            font-weight: bold;
+            width: 500px;
+            height: 50px;
+            line-height: 50px;
+            vertical-align: middle;
+            text-align: center;
+            margin: 0 auto;
+            margin-bottom: 30px;
+            background: url("/medi-caree/common/img/examination/bg_h5_cont02.png") no-repeat;
+          }
+          .red {
+            color: #f00;
+            line-height: 1.8;
+          }
+          .c-block03 {
+            margin-top: 30px;
+            dl {
+              display: table;
+              margin: 0;
+              background: #fff;
+              width: 100%;
+              border: 1px solid #e2e2e2;
+              border-top: none;
+              &:first-child {
+                border-top: 1px solid #e2e2e2;
+              }
+              dt {
+                display: table-cell;
+                padding: 0 0 0 20px;
+                width: 140px;
+                background: #fff1e5;
+                vertical-align: middle;
+                font-weight: bold;
+              }
+              dd {
+                margin :0;
+                padding: 15px 20px;
+                ul {
+                  margin: 0;
+                  padding: 0;
+                  li {
+                    list-style: none;
+                    span {
+                      font-size: 20px; 
+                      color: #c6c6c6;
+                    }
+                  }
+                }
+                .txt {
+                  margin-top: 10px;
+                }
+                a {
+                color: #63d195;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width:768px) {
+  .mv {
+    min-width: 100%;
+    background: none;
+    padding: 0;
+    .wrap{
+      width: 100%;
+      padding: 0;
+      img {
+      width: 100%;
+      height: auto;
+      }
+    }  
+  }
+   .container {
+    min-width: 100%;
+    font-size: $fz16;
+    .wrap {
+      padding: 3% 3% 15% 3%;
+      h3 {
+        text-align: center;
+        font-size: 150%;
+      }
+       h4 {
+          margin: 0 0 5% 0;
+        img {
+          width: 100%;
+          height: auto;
+        }
+        &:before { 
+          display: none;
+      
+        }
+      }
+      .anchor {
+        text-align: center;
+        margin-top: 8%;
+        img {
+          width: 100%;
+          height: auto;
+          margin: 0 0 4%
+        }
+      }
+      .cont01 {
+        margin-top: 10%;
+        .c-cont01 {
+        margin-top: 5%;
+        .block01 {
+          dl {
+            display: table;
+            margin: 0;
+            background: #fff;
+            width: 100%;
+            border: 1px solid #e2e2e2;
+            border-top: none;
+            &:first-child {
+              border-top: 1px solid #e2e2e2;
+            }
+            dt {
+              display: table-cell;
+              font-weight: bold;
+              text-align: center;
+              width: 20%;
+              background: #fff1e5;
+              vertical-align: middle;
+            }
+            dd {
+              margin :0;
+              padding: 2%;
+              .orange {
+                color: #ff943c;
+                font-size: 120%;
+                font-weight: bold;
+              }
+              .green {
+                color: #99cd4f;
+                font-weight: bold;
+              }
+              .aqua {
+                color: #4ac6e3;
+                font-weight: bold;
+              }
+              .blue {
+                color: #0d8dce;
+                font-weight: bold;
+              }
+              .pink {
+                color: #f46371;
+                font-weight: bold;
+              }
+              .notes {
+                font-size: 80%;
+              }
+              ul {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                li {
+                  list-style: none;
+                  span {
+                    color :#c6c6c6;
+                    font-size: 20px;
+                  }
+                }
+              }
+            }
+          }
+        }
+        .block02 {
+          margin: 10% 0 2% 0;
+          h5 {
+            margin: 0;
+            img {
+              width: 100%;
+              height: auto;
+            }
+            .btn_on , .btn_off {
+              cursor: pointer;
+            }
+          }
+          .on {
+            display: (block !important);
+          }
+          .c-block02 {
+            display: none;
+            margin-top: 4%;
+            .left {
+              float: none;
+            }
+            .right {
+              float: none;
+              border-top: none;
+            }
+            table {
+              width: 100%;
+              border: 1px solid #e2e2e2;
+              border-right: none;
+              background: #fff;
+              th {
+                width: 20%;
+                background: #fff1e5;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2;
+                vertical-align: middle;
+              }
+              td {
+                text-align:center;
+                vertical-align: middle;
+                width: 16%;
+                padding: 1%;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2; 
+              }
+            }
+          }
+        }
+      }
+    }
+    .cont02 {
+      margin-top: 15%;
+      .c-cont02 {
+        .block01 {
+          h5 {
+            width: 90%;
+            margin: 0 auto;
+            background: none;
+            img {
+              width: 100%;
+              height: auto;
+              margin: 10% 0 0 0;
+            }
+          }
+          .c-block01 {
+
+            margin-top: 3%;
+            .read {
+              margin-top: 6%;
+              span {
+                color: #4ac6e3;
+              }
+              img {
+                width: 100%;
+                height: auto;
+                margin: 5% 0 10%;
+              }
+            }
+            table {
+              width: 100%;
+              border: 1px solid #e2e2e2;
+              border-right: none;
+              background: #fff;
+              margin-top: 3%;
+               th {
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2;
+                padding: 2px 0;
+                vertical-align: middle;
+                &.first {
+                  width: 20%;
+                }
+                &.pink {
+                  background: #fff1e5;
+                }
+              }
+              td {
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2; 
+                text-align: center;
+                padding: 5px 0;
+                &.col {
+                  width: 30%;
+                }
+                span {
+                  &.orange {
+                    color: #ff943c;
+                    font-weight: bold;
+                    font-size: 110%;
+                  }
+                  &.aqua {
+                    color: #4ac6e3;
+                  }
+                }
+                img {
+                  width: 80%;
+                  height: auto;
+                  margin: 2% auto;
+                }
+              }
+            }
+            dl {
+              dt {
+                font-size: 21px;
+                color: #f00;
+                font-weight: bold;
+              }
+              dd {
+                margin: 0;
+                span {
+                  color: #c6c6c6;
+                  font-size: 100%;
+                }
+              }
+            }
+          }
+        }
+        .block02 {
+          margin-top: 6%;
+           h5 {
+            background: none;
+            img {
+              width: 100%;
+              height: auto;
+              margin: 10% 0 0 0;
+            }
+          }
+          .on {
+            display: (block !important);
+          }
+          .c-block02 {
+            display: none;
+             .left {
+              float: none;
+            }
+            .right {
+              float: none;
+            }
+     
+            table {
+              width: 100%;
+              border: 1px solid #e2e2e2;
+              border-right: none;
+              background: #fff;
+              th {
+                text-align: center;
+                width: 35%;
+                padding: 10px 0;
+                background: #fff1e5;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2;
+                vertical-align: middle;
+              }
+              td {
+                text-align:center;
+                vertical-align: middle;
+                border-bottom: 1px solid #e2e2e2;
+                border-right: 1px solid #e2e2e2; 
+              }
+            }
+          }
+          dl {
+            dt {
+              color: #ff943c;
+              font-size: $fz18;
+              font-weight: bold;
+            }
+            dd {
+              margin: 0;
+              padding: 0;
+              a {
+                color: #63d195;
+              }
+            }
+          }
+        }
+        .block03 {
+          margin-top: 5%;
+          h5 {
+         
+            width: 90%;
+            height: auto;
+            text-align: center;
+            margin: 0 auto;
+            margin-bottom: 4%;
+            margin-top: 10%;
+            background: none;
+            img {
+              width: 100%;
+              height: auto;
+            }
+          }
+          .c-block03 {
+            margin-top: 4%;
+            dl {
+              display: table;
+              margin: 0;
+              background: #fff;
+              width: 100%;
+              border: 1px solid #e2e2e2;
+              border-top: none;
+              &:first-child {
+                border-top: 1px solid #e2e2e2;
+              }
+              dt {
+                display: table-cell;
+                padding: 0 0 0 1%;
+                width: 20%;
+                background: #fff1e5;
+                vertical-align: middle;
+                font-weight: bold;
+              }
+              dd {
+                margin :0;
+                padding: 1%;
+                ul {
+                  margin: 0;
+                  padding: 0;
+                  li {
+                    list-style: none;
+                    span {
+                      font-size: 110%; 
+                      color: #c6c6c6;
+                    }
+                  }
+                }
+                .txt {
+                  margin-top: 1%;
+                }
+                a {
+                color: #63d195;
+                }
+                img {
+                  width: 80%;
+                  height: auto;
+                  margin: 3% auto;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    }
+  }
+}

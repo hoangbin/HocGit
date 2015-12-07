@@ -1,0 +1,1282 @@
+.mv {
+  background: url("/medi-caree/common/img/reason/mv.png") no-repeat center; }
+
+.container .ttl_cont span {
+  font-size: 128.57143%;
+  display: inline-block;
+  color: #fff;
+  line-height: 35px;
+  width: 203px;
+  height: 35px;
+  background: url("/medi-caree/common/img/reason/bg_tttl01.png"); }
+  .container .ttl_cont span b {
+    font-size: 130%;
+    font-weight: normal; }
+.container .reason_h03_cont {
+  font-size: 285.71429%;
+  line-height: 1.5;
+  margin-bottom: 4%; }
+.container .fttl {
+  font-size: 150%;
+  margin-bottom: 40px;
+  font-weight: bold; }
+  .container .fttl span {
+    color: #ff943c; }
+.container .txt {
+  text-align: justify;
+  font-size: 128.57143%;
+  line-height: 1.8; }
+.container .fblock {
+  text-align: left;
+  margin: 50px 0 30px 0; }
+  .container .fblock .text {
+    width: 620px;
+    float: left;
+    font-size: 107.14286%; }
+  .container .fblock .text02 {
+    width: 620px;
+    float: left;
+    text-align: right; }
+  .container .fblock .btn {
+    font-size: 128.57143%;
+    width: 300px;
+    float: right; }
+    .container .fblock .btn .ov {
+      display: inline-block;
+      text-align: center;
+      font-weight: bold;
+      line-height: 42px;
+      width: 294px;
+      height: 42px;
+      background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+      background-color: #fff;
+      border: 3px solid #ff943c; }
+      .container .fblock .btn .ov img {
+        vertical-align: middle;
+        margin-left: 20px; }
+      .container .fblock .btn .ov:hover {
+        color: #fff;
+        background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+        background-color: #ff943c; }
+.container .cont01 {
+  width: 100%;
+  background: url("/medi-caree/common/img/reason/bg_cont01.jpg") no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  .container .cont01 .wrap {
+    text-align: center;
+    padding: 70px 0 20px 0; }
+    .container .cont01 .wrap .txt {
+      font-size: 192.85714%;
+      margin: 20px 0;
+      text-align: center; }
+      .container .cont01 .wrap .txt span {
+        display: inline;
+        background: url("/medi-caree/common/img/reason/bg_txt_cont01.png") left bottom repeat-x; }
+.container .cont02 {
+  width: 100%;
+  background: url("/medi-caree/common/img/reason/bg_cont02.png"); }
+  .container .cont02 .wrap {
+    text-align: center;
+    padding: 40px 0 20px 0; }
+    .container .cont02 .wrap .cont02_block01, .container .cont02 .wrap .cont02_block02 {
+      text-align: left;
+      background: #fff;
+      margin-top: 50px;
+      padding: 40px;
+      border: 1px solid #ff943c; }
+      .container .cont02 .wrap .cont02_block01 .txt_b, .container .cont02 .wrap .cont02_block02 .txt_b {
+        margin-bottom: 30px;
+        font-size: 128.57143%;
+        line-height: 1.6; }
+        .container .cont02 .wrap .cont02_block01 .txt_b span, .container .cont02 .wrap .cont02_block02 .txt_b span {
+          display: inline;
+          background: url("/medi-caree/common/img/reason/bg_txt_cont01.png") left bottom repeat-x; }
+      .container .cont02 .wrap .cont02_block01 .box_img, .container .cont02 .wrap .cont02_block02 .box_img {
+        text-align: center; }
+    .container .cont02 .wrap .cont02_block02 h4 {
+      font-size: 257.14286%;
+      text-align: center;
+      margin-bottom: 45px; }
+      .container .cont02 .wrap .cont02_block02 h4 span {
+        display: inline;
+        background: url("/medi-caree/common/img/reason/bg_txt_cont01.png") left bottom repeat-x; }
+    .container .cont02 .wrap .cont02_block02 .dl01 {
+      margin-bottom: 30px;
+      font-size: 128.57143%; }
+      .container .cont02 .wrap .cont02_block02 .dl01 dt {
+        color: #fff;
+        width: 275px;
+        padding: 5px 0 5px 15px;
+        background: #5cb8e5; }
+      .container .cont02 .wrap .cont02_block02 .dl01 dd {
+        margin: 15px 0 0 0;
+        padding: 0; }
+        .container .cont02 .wrap .cont02_block02 .dl01 dd ul {
+          margin: 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl01 dd ul li {
+            float: left;
+            list-style: none;
+            margin-right: 15px; }
+            .container .cont02 .wrap .cont02_block02 .dl01 dd ul li span {
+              font-size: 25px;
+              color: #5cb8e5; }
+    .container .cont02 .wrap .cont02_block02 .dl02 {
+      margin-bottom: 30px;
+      font-size: 128.57143%; }
+      .container .cont02 .wrap .cont02_block02 .dl02 dt {
+        color: #fff;
+        width: 275px;
+        padding: 5px 0 5px 15px;
+        background: #e5a1cf; }
+      .container .cont02 .wrap .cont02_block02 .dl02 dd {
+        margin: 15px 0 0 0;
+        padding: 0; }
+        .container .cont02 .wrap .cont02_block02 .dl02 dd ul {
+          margin: 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl02 dd ul li {
+            float: left;
+            list-style: none;
+            margin-right: 15px; }
+            .container .cont02 .wrap .cont02_block02 .dl02 dd ul li span {
+              font-size: 25px;
+              color: #e5a1cf; }
+    .container .cont02 .wrap .cont02_block02 .dl03 {
+      margin-bottom: 30px;
+      font-size: 128.57143%; }
+      .container .cont02 .wrap .cont02_block02 .dl03 dt {
+        color: #fff;
+        width: 275px;
+        padding: 5px 0 5px 15px;
+        background: #ff9999; }
+      .container .cont02 .wrap .cont02_block02 .dl03 dd {
+        margin: 15px 0 0 0;
+        padding: 0; }
+        .container .cont02 .wrap .cont02_block02 .dl03 dd ul {
+          margin: 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl03 dd ul li {
+            float: left;
+            list-style: none;
+            margin-right: 15px; }
+            .container .cont02 .wrap .cont02_block02 .dl03 dd ul li span {
+              font-size: 25px;
+              color: #ff9999; }
+    .container .cont02 .wrap .cont02_block02 .dl04 {
+      margin-bottom: 30px;
+      font-size: 128.57143%; }
+      .container .cont02 .wrap .cont02_block02 .dl04 dt {
+        color: #fff;
+        width: 275px;
+        padding: 5px 0 5px 15px;
+        background: #ffbf00; }
+      .container .cont02 .wrap .cont02_block02 .dl04 dd {
+        margin: 15px 0 0 0;
+        padding: 0; }
+        .container .cont02 .wrap .cont02_block02 .dl04 dd ul {
+          margin: 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl04 dd ul li {
+            float: left;
+            list-style: none;
+            margin-right: 15px; }
+            .container .cont02 .wrap .cont02_block02 .dl04 dd ul li span {
+              font-size: 25px;
+              color: #ffbf00; }
+    .container .cont02 .wrap .cont02_block02 .dl05 {
+      margin-bottom: 30px;
+      font-size: 128.57143%; }
+      .container .cont02 .wrap .cont02_block02 .dl05 dt {
+        color: #fff;
+        width: 275px;
+        padding: 5px 0 5px 15px;
+        background: #a3cc52; }
+      .container .cont02 .wrap .cont02_block02 .dl05 dd {
+        margin: 15px 0 0 0;
+        padding: 0; }
+        .container .cont02 .wrap .cont02_block02 .dl05 dd ul {
+          margin: 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl05 dd ul li {
+            float: left;
+            list-style: none;
+            margin-right: 15px; }
+            .container .cont02 .wrap .cont02_block02 .dl05 dd ul li span {
+              font-size: 25px;
+              color: #a3cc52; }
+    .container .cont02 .wrap .cont02_block02 .box_img {
+      text-align: center; }
+      .container .cont02 .wrap .cont02_block02 .box_img ul {
+        margin: 0;
+        padding: 0; }
+        .container .cont02 .wrap .cont02_block02 .box_img ul li {
+          list-style: none;
+          float: left;
+          margin-left: 20px; }
+          .container .cont02 .wrap .cont02_block02 .box_img ul li:first-child {
+            margin-left: 0; }
+.container .cont03 {
+  width: 100%;
+  background: #fff; }
+  .container .cont03 .wrap {
+    text-align: center;
+    padding: 70px 0 50px 0; }
+    .container .cont03 .wrap .ttl02 {
+      text-align: center;
+      margin-bottom: 30px; }
+      .container .cont03 .wrap .ttl02 span {
+        display: inline-block;
+        color: #fff;
+        line-height: 35px;
+        width: 203px;
+        height: 35px;
+        background: url("/medi-caree/common/img/reason/bg_tttl01.png"); }
+  .container .cont03 .cont03_block01 {
+    text-align: left;
+    margin-top: 50px;
+    padding: 40px;
+    border: 1px solid #ff943c; }
+    .container .cont03 .cont03_block01 h4 {
+      font-size: 257.14286%;
+      text-align: center;
+      margin-bottom: 40px; }
+      .container .cont03 .cont03_block01 h4 span {
+        display: inline;
+        background: url("/medi-caree/common/img/reason/bg_txt_cont01.png") left bottom repeat-x; }
+    .container .cont03 .cont03_block01 dl {
+      margin-left: 35px; }
+      .container .cont03 .cont03_block01 dl:first-child {
+        margin-left: 0px; }
+    .container .cont03 .cont03_block01 .dl01 {
+      width: 155px;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0; }
+      .container .cont03 .cont03_block01 .dl01 dt {
+        position: relative;
+        font-size: 128.57143%;
+        color: #fff;
+        line-height: 50px;
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        background: #5cb8e5; }
+        .container .cont03 .cont03_block01 .dl01 dt:before {
+          content: '';
+          position: absolute;
+          bottom: -10px;
+          left: 65px;
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid #5cb8e5; }
+      .container .cont03 .cont03_block01 .dl01 dd {
+        margin: 20px 0 0 0; }
+        .container .cont03 .cont03_block01 .dl01 dd.dd02 {
+          margin: 0; }
+        .container .cont03 .cont03_block01 .dl01 dd .rank {
+          font-size: 40px;
+          color: #5cb8e5;
+          text-align: center; }
+          .container .cont03 .cont03_block01 .dl01 dd .rank .decimal {
+            font-size: 30px; }
+          .container .cont03 .cont03_block01 .dl01 dd .rank .proportion {
+            font-size: 20px; }
+        .container .cont03 .cont03_block01 .dl01 dd .txt {
+          font-size: 12px;
+          text-align: justify;
+          line-height: 1.7em;
+          margin-top: 5px; }
+    .container .cont03 .cont03_block01 .dl02 {
+      width: 155px;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0; }
+      .container .cont03 .cont03_block01 .dl02 dt {
+        position: relative;
+        font-size: 128.57143%;
+        color: #fff;
+        line-height: 50px;
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        background: #e5a1cf; }
+        .container .cont03 .cont03_block01 .dl02 dt:before {
+          content: '';
+          position: absolute;
+          bottom: -10px;
+          left: 65px;
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid #e5a1cf; }
+      .container .cont03 .cont03_block01 .dl02 dd {
+        margin: 20px 0 0 0; }
+        .container .cont03 .cont03_block01 .dl02 dd.dd02 {
+          margin: 0; }
+        .container .cont03 .cont03_block01 .dl02 dd .rank {
+          font-size: 40px;
+          color: #e5a1cf;
+          text-align: center; }
+          .container .cont03 .cont03_block01 .dl02 dd .rank .decimal {
+            font-size: 30px; }
+          .container .cont03 .cont03_block01 .dl02 dd .rank .proportion {
+            font-size: 20px; }
+        .container .cont03 .cont03_block01 .dl02 dd .txt {
+          font-size: 12px;
+          text-align: justify;
+          line-height: 1.7em;
+          margin-top: 5px; }
+    .container .cont03 .cont03_block01 .dl03 {
+      width: 155px;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0; }
+      .container .cont03 .cont03_block01 .dl03 dt {
+        position: relative;
+        font-size: 128.57143%;
+        color: #fff;
+        line-height: 50px;
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        background: #ff9999; }
+        .container .cont03 .cont03_block01 .dl03 dt:before {
+          content: '';
+          position: absolute;
+          bottom: -10px;
+          left: 65px;
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid #ff9999; }
+      .container .cont03 .cont03_block01 .dl03 dd {
+        margin: 20px 0 0 0; }
+        .container .cont03 .cont03_block01 .dl03 dd.dd02 {
+          margin: 0; }
+        .container .cont03 .cont03_block01 .dl03 dd .rank {
+          font-size: 40px;
+          color: #ff9999;
+          text-align: center; }
+          .container .cont03 .cont03_block01 .dl03 dd .rank .decimal {
+            font-size: 30px; }
+          .container .cont03 .cont03_block01 .dl03 dd .rank .proportion {
+            font-size: 20px; }
+        .container .cont03 .cont03_block01 .dl03 dd .txt {
+          font-size: 12px;
+          text-align: justify;
+          line-height: 1.7em;
+          margin-top: 5px; }
+    .container .cont03 .cont03_block01 .dl04 {
+      width: 155px;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0; }
+      .container .cont03 .cont03_block01 .dl04 dt {
+        position: relative;
+        font-size: 128.57143%;
+        color: #fff;
+        line-height: 50px;
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        background: #ffbf00; }
+        .container .cont03 .cont03_block01 .dl04 dt:before {
+          content: '';
+          position: absolute;
+          bottom: -10px;
+          left: 65px;
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid #ffbf00; }
+      .container .cont03 .cont03_block01 .dl04 dd {
+        margin: 20px 0 0 0; }
+        .container .cont03 .cont03_block01 .dl04 dd.dd02 {
+          margin: 0; }
+        .container .cont03 .cont03_block01 .dl04 dd .rank {
+          font-size: 40px;
+          color: #ffbf00;
+          text-align: center; }
+          .container .cont03 .cont03_block01 .dl04 dd .rank .decimal {
+            font-size: 30px; }
+          .container .cont03 .cont03_block01 .dl04 dd .rank .proportion {
+            font-size: 20px; }
+        .container .cont03 .cont03_block01 .dl04 dd .txt {
+          font-size: 12px;
+          text-align: justify;
+          line-height: 1.7em;
+          margin-top: 5px; }
+    .container .cont03 .cont03_block01 .dl05 {
+      width: 155px;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0; }
+      .container .cont03 .cont03_block01 .dl05 dt {
+        position: relative;
+        font-size: 128.57143%;
+        color: #fff;
+        line-height: 50px;
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        background: #a3cc52; }
+        .container .cont03 .cont03_block01 .dl05 dt:before {
+          content: '';
+          position: absolute;
+          bottom: -10px;
+          left: 65px;
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid #a3cc52; }
+      .container .cont03 .cont03_block01 .dl05 dd {
+        margin: 20px 0 0 0; }
+        .container .cont03 .cont03_block01 .dl05 dd.dd02 {
+          margin: 0; }
+        .container .cont03 .cont03_block01 .dl05 dd .rank {
+          font-size: 40px;
+          color: #a3cc52;
+          text-align: center; }
+          .container .cont03 .cont03_block01 .dl05 dd .rank .decimal {
+            font-size: 30px; }
+          .container .cont03 .cont03_block01 .dl05 dd .rank .proportion {
+            font-size: 20px; }
+        .container .cont03 .cont03_block01 .dl05 dd .txt {
+          font-size: 12px;
+          text-align: justify;
+          line-height: 1.7em;
+          margin-top: 5px; }
+.container .cont04 {
+  width: 100%;
+  background: url("/medi-caree/common/img/reason/bg_cont02.png"); }
+  .container .cont04 .wrap {
+    text-align: center;
+    padding: 70px 0 50px 0; }
+    .container .cont04 .wrap .cont04_block01 {
+      position: relative;
+      text-align: left;
+      background: #fff;
+      margin-top: 60px;
+      padding: 40px;
+      border: 1px solid #ff943c; }
+      .container .cont04 .wrap .cont04_block01 h4 span {
+        position: absolute;
+        top: -30px;
+        left: 250px;
+        display: inline;
+        color: #fff;
+        font-size: 171.42857%;
+        font-weight: bold;
+        text-align: center;
+        line-height: 60px;
+        width: 470px;
+        height: 60px;
+        background: #ff943c;
+        border-radius: 4px;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px; }
+        .container .cont04 .wrap .cont04_block01 h4 span:after {
+          content: '';
+          position: absolute;
+          bottom: -10px;
+          left: 210px;
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid #ff943c; }
+      .container .cont04 .wrap .cont04_block01 .content_block01 {
+        margin-top: 50px;
+        text-align: center; }
+        .container .cont04 .wrap .cont04_block01 .content_block01 .child01 .photo {
+          margin-bottom: 20px; }
+        .container .cont04 .wrap .cont04_block01 .content_block01 .child01 ul {
+          width: 100%;
+          margin: 0;
+          padding: 0; }
+          .container .cont04 .wrap .cont04_block01 .content_block01 .child01 ul li {
+            font-size: 107.14286%;
+            text-align: justify;
+            float: left;
+            list-style: none;
+            width: 270px;
+            margin-left: 50px; }
+            .container .cont04 .wrap .cont04_block01 .content_block01 .child01 ul li.first {
+              margin-left: 0; }
+        .container .cont04 .wrap .cont04_block01 .content_block01 .child02 ul {
+          padding-left: 32px;
+          margin: 0; }
+          .container .cont04 .wrap .cont04_block01 .content_block01 .child02 ul li {
+            text-align: justify;
+            width: 320px;
+            list-style: none; }
+            .container .cont04 .wrap .cont04_block01 .content_block01 .child02 ul li.first {
+              float: left; }
+            .container .cont04 .wrap .cont04_block01 .content_block01 .child02 ul li.last {
+              float: right; }
+    .container .cont04 .wrap .cont04_block02 {
+      width: 100%;
+      padding: 70px 0; }
+      .container .cont04 .wrap .cont04_block02 .tl01 {
+        font-size: 150%;
+        font-weight: bold;
+        line-height: 1.8;
+        text-align: center; }
+      .container .cont04 .wrap .cont04_block02 .tl02 {
+        font-size: 257.14286%;
+        font-weight: bold;
+        line-height: 1.5;
+        color: #ff943c;
+        text-align: center; }
+        .container .cont04 .wrap .cont04_block02 .tl02 span {
+          color: #444; }
+      .container .cont04 .wrap .cont04_block02 .box_left {
+        float: left; }
+      .container .cont04 .wrap .cont04_block02 .box_right {
+        float: right; }
+      .container .cont04 .wrap .cont04_block02 .box01 {
+        position: relative;
+        text-align: center;
+        width: 390px;
+        padding: 40px;
+        margin-top: 70px;
+        border: 1px solid #ff943c;
+        background: #fff; }
+        .container .cont04 .wrap .cont04_block02 .box01 h5 {
+          position: absolute;
+          top: -32px;
+          left: 190px;
+          font-size: 35px;
+          color: #fff;
+          text-align: center;
+          line-height: 62px;
+          width: 62px;
+          height: 62px;
+          margin: 0;
+          background: #fbb41a;
+          border-radius: 100px;
+          -webkit-border-radius: 100px;
+          -moz-border-radius: 100px; }
+        .container .cont04 .wrap .cont04_block02 .box01 .mtl {
+          font-size: 214.28571%;
+          font-weight: bold;
+          color: #ff943c;
+          margin-top: 20px; }
+        .container .cont04 .wrap .cont04_block02 .box01 .txt {
+          font-size: 121.42857%;
+          text-align: justify;
+          height: 135px;
+          margin: 30px 0 50px 0; }
+        .container .cont04 .wrap .cont04_block02 .box01 .btn .ov {
+          display: inline-block;
+          font-weight: bold;
+          font-size: 128.57143%;
+          text-align: center;
+          line-height: 50px;
+          width: 330px;
+          height: 50px;
+          background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 10px center no-repeat;
+          background-color: #fff;
+          border: 4px solid #ff943c; }
+          .container .cont04 .wrap .cont04_block02 .box01 .btn .ov:hover {
+            color: #fff;
+            background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 10px center no-repeat;
+            background-color: #ff943c; }
+      .container .cont04 .wrap .cont04_block02 .box02 {
+        position: relative;
+        text-align: center;
+        width: 390px;
+        padding: 40px;
+        margin-top: 70px;
+        border: 1px solid #ff943c;
+        background: #fff; }
+        .container .cont04 .wrap .cont04_block02 .box02 h5 {
+          position: absolute;
+          top: -32px;
+          left: 190px;
+          font-size: 35px;
+          color: #fff;
+          text-align: center;
+          line-height: 62px;
+          width: 62px;
+          height: 62px;
+          margin: 0;
+          background: #fbb41a;
+          border-radius: 100px;
+          -webkit-border-radius: 100px;
+          -moz-border-radius: 100px; }
+        .container .cont04 .wrap .cont04_block02 .box02 .mtl {
+          font-size: 214.28571%;
+          font-weight: bold;
+          color: #ff943c;
+          margin-top: 20px; }
+        .container .cont04 .wrap .cont04_block02 .box02 .txt {
+          font-size: 121.42857%;
+          text-align: justify;
+          height: 135px;
+          margin: 30px 0 50px 0; }
+        .container .cont04 .wrap .cont04_block02 .box02 .btn .ov {
+          display: inline-block;
+          font-weight: bold;
+          font-size: 128.57143%;
+          text-align: center;
+          line-height: 50px;
+          width: 330px;
+          height: 50px;
+          background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 10px center no-repeat;
+          background-color: #fff;
+          border: 4px solid #ff943c; }
+          .container .cont04 .wrap .cont04_block02 .box02 .btn .ov:hover {
+            color: #fff;
+            background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 10px center no-repeat;
+            background-color: #ff943c; }
+    .container .cont04 .wrap .cont04_block03 {
+      padding: 50px 20px 40px 20px;
+      background: #fff; }
+      .container .cont04 .wrap .cont04_block03 h2 {
+        text-align: center;
+        margin: 0 0 30px 0; }
+      .container .cont04 .wrap .cont04_block03 .content_block03 {
+        text-align: justify;
+        background: url("/medi-caree/common/img/reason/bg_block02_cont04.png"); }
+        .container .cont04 .wrap .cont04_block03 .content_block03 .box_left {
+          width: 176px;
+          float: left; }
+          .container .cont04 .wrap .cont04_block03 .content_block03 .box_left .htxt {
+            font-size: 13px; }
+          .container .cont04 .wrap .cont04_block03 .content_block03 .box_left .name {
+            font-size: 25px;
+            font-weight: bold; }
+            .container .cont04 .wrap .cont04_block03 .content_block03 .box_left .name span {
+              font-size: 20px; }
+      .container .cont04 .wrap .cont04_block03 .box_right {
+        font-size: 107.14286%;
+        line-height: 1.8;
+        font-weight: bold;
+        width: 680px;
+        float: right; }
+        .container .cont04 .wrap .cont04_block03 .box_right span {
+          display: inline-block;
+          width: 490px; }
+        .container .cont04 .wrap .cont04_block03 .box_right .ttl_block03 {
+          font-size: 120%; }
+
+@media only screen and (max-width: 768px) {
+  .mv {
+    min-width: 100%;
+    background: none;
+    padding: 0; }
+    .mv .wrap {
+      width: 100%;
+      padding: 0; }
+      .mv .wrap img {
+        width: 100%;
+        height: auto; }
+
+  .container {
+    font-size: 114.28571%; }
+    .container .ttl_cont span {
+      font-size: 120%;
+      display: inline-block;
+      color: #fff;
+      line-height: 35px;
+      width: 203px;
+      height: 35px;
+      background: url("/medi-caree/common/img/reason/bg_tttl01.png"); }
+      .container .ttl_cont span b {
+        font-size: 130%;
+        font-weight: normal; }
+    .container .reason_h03_cont {
+      font-size: 178.57143%;
+      line-height: 1.5;
+      margin-bottom: 4%; }
+    .container .fttl {
+      font-size: 128.57143%;
+      margin-bottom: 3%;
+      line-height: 1.5;
+      font-weight: bold; }
+    .container .txt {
+      font-size: 114.28571%;
+      text-align: justify;
+      line-height: 1.8; }
+    .container .fblock {
+      text-align: center;
+      margin: 5% 0 3% 0; }
+      .container .fblock .text {
+        width: 100%;
+        float: none;
+        font-size: 100%;
+        text-align: justify; }
+      .container .fblock .text02 {
+        width: 100%;
+        float: none;
+        text-align: justify; }
+      .container .fblock .btn {
+        font-size: 128.57143%;
+        width: 100%;
+        float: none;
+        margin-top: 3%; }
+        .container .fblock .btn .ov {
+          color: #fff;
+          width: 65%;
+          height: auto;
+          padding: 1.5% 0;
+          background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 4% center no-repeat; }
+          .container .fblock .btn .ov img {
+            vertical-align: middle;
+            margin-left: 20px; }
+          .container .fblock .btn .ov:hover {
+            color: #fff;
+            background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 4% center no-repeat;
+            background-color: #ff943c; }
+    .container .cont01 {
+      background: none; }
+      .container .cont01 .wrap {
+        text-align: justify;
+        padding: 5% 3% 8% 3%; }
+        .container .cont01 .wrap .txt {
+          font-size: 121.42857%;
+          text-align: center; }
+        .container .cont01 .wrap img {
+          width: 100%;
+          height: auto;
+          margin-top: 5%; }
+    .container .cont02 .wrap {
+      width: 94%;
+      padding: 5% 3% 8% 3%; }
+      .container .cont02 .wrap .cont02_block01, .container .cont02 .wrap .cont02_block02 {
+        font-size: 110%;
+        padding: 4% 3% 10% 3%; }
+        .container .cont02 .wrap .cont02_block01 .box_img, .container .cont02 .wrap .cont02_block02 .box_img {
+          text-align: center; }
+          .container .cont02 .wrap .cont02_block01 .box_img img, .container .cont02 .wrap .cont02_block02 .box_img img {
+            width: 80%;
+            height: auto;
+            margin: 0 auto; }
+          .container .cont02 .wrap .cont02_block01 .box_img .bt, .container .cont02 .wrap .cont02_block02 .box_img .bt {
+            width: 70%;
+            height: auto;
+            margin-top: 5%; }
+        .container .cont02 .wrap .cont02_block01 .txt_b, .container .cont02 .wrap .cont02_block02 .txt_b {
+          font-size: 114.28571%; }
+      .container .cont02 .wrap .cont02_block02 h4 {
+        font-size: 150%;
+        margin: 4% 0 10% 0; }
+      .container .cont02 .wrap .cont02_block02 .dl01 {
+        margin-bottom: 5%; }
+        .container .cont02 .wrap .cont02_block02 .dl01 dt {
+          color: #fff;
+          font-size: 80%;
+          width: 70%;
+          padding: 1% 0 1% 2%;
+          background: #5cb8e5; }
+        .container .cont02 .wrap .cont02_block02 .dl01 dd {
+          margin: 2% 0 0 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl01 dd ul {
+            margin: 0;
+            padding: 0; }
+            .container .cont02 .wrap .cont02_block02 .dl01 dd ul li {
+              font-size: 70%;
+              float: left;
+              list-style: none;
+              margin-right: 3%; }
+              .container .cont02 .wrap .cont02_block02 .dl01 dd ul li span {
+                font-size: 120%;
+                color: #5cb8e5; }
+      .container .cont02 .wrap .cont02_block02 .dl02 {
+        margin-bottom: 5%; }
+        .container .cont02 .wrap .cont02_block02 .dl02 dt {
+          color: #fff;
+          font-size: 80%;
+          width: 70%;
+          padding: 1% 0 1% 2%;
+          background: #e5a1cf; }
+        .container .cont02 .wrap .cont02_block02 .dl02 dd {
+          margin: 2% 0 0 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl02 dd ul {
+            margin: 0;
+            padding: 0; }
+            .container .cont02 .wrap .cont02_block02 .dl02 dd ul li {
+              font-size: 70%;
+              float: left;
+              list-style: none;
+              margin-right: 3%; }
+              .container .cont02 .wrap .cont02_block02 .dl02 dd ul li span {
+                font-size: 120%;
+                color: #e5a1cf; }
+      .container .cont02 .wrap .cont02_block02 .dl03 {
+        margin-bottom: 5%; }
+        .container .cont02 .wrap .cont02_block02 .dl03 dt {
+          color: #fff;
+          font-size: 80%;
+          width: 70%;
+          padding: 1% 0 1% 2%;
+          background: #ff9999; }
+        .container .cont02 .wrap .cont02_block02 .dl03 dd {
+          margin: 2% 0 0 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl03 dd ul {
+            margin: 0;
+            padding: 0; }
+            .container .cont02 .wrap .cont02_block02 .dl03 dd ul li {
+              font-size: 70%;
+              float: left;
+              list-style: none;
+              margin-right: 3%; }
+              .container .cont02 .wrap .cont02_block02 .dl03 dd ul li span {
+                font-size: 120%;
+                color: #ff9999; }
+      .container .cont02 .wrap .cont02_block02 .dl04 {
+        margin-bottom: 5%; }
+        .container .cont02 .wrap .cont02_block02 .dl04 dt {
+          color: #fff;
+          font-size: 80%;
+          width: 70%;
+          padding: 1% 0 1% 2%;
+          background: #ffbf00; }
+        .container .cont02 .wrap .cont02_block02 .dl04 dd {
+          margin: 2% 0 0 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl04 dd ul {
+            margin: 0;
+            padding: 0; }
+            .container .cont02 .wrap .cont02_block02 .dl04 dd ul li {
+              font-size: 70%;
+              float: left;
+              list-style: none;
+              margin-right: 3%; }
+              .container .cont02 .wrap .cont02_block02 .dl04 dd ul li span {
+                font-size: 120%;
+                color: #ffbf00; }
+      .container .cont02 .wrap .cont02_block02 .dl05 {
+        margin-bottom: 5%; }
+        .container .cont02 .wrap .cont02_block02 .dl05 dt {
+          color: #fff;
+          font-size: 80%;
+          width: 70%;
+          padding: 1% 0 1% 2%;
+          background: #a3cc52; }
+        .container .cont02 .wrap .cont02_block02 .dl05 dd {
+          margin: 2% 0 0 0;
+          padding: 0; }
+          .container .cont02 .wrap .cont02_block02 .dl05 dd ul {
+            margin: 0;
+            padding: 0; }
+            .container .cont02 .wrap .cont02_block02 .dl05 dd ul li {
+              font-size: 70%;
+              float: left;
+              list-style: none;
+              margin-right: 3%; }
+              .container .cont02 .wrap .cont02_block02 .dl05 dd ul li span {
+                font-size: 120%;
+                color: #a3cc52; }
+      .container .cont02 .wrap .cont02_block02 .bt {
+        width: 70%;
+        height: auto; }
+    .container .cont03 {
+      width: 100%; }
+      .container .cont03 .wrap {
+        width: 94%;
+        padding: 5% 3%; }
+        .container .cont03 .wrap .ttl02 {
+          font-size: 120%;
+          font-weight: bold; }
+        .container .cont03 .wrap .cont03_block01 {
+          padding: 6% 3%;
+          margin-top: 4%; }
+          .container .cont03 .wrap .cont03_block01 h4 {
+            font-size: 170%;
+            margin: 0% 0 8% 0; }
+          .container .cont03 .wrap .cont03_block01 .dl01 {
+            position: relative;
+            width: 100%;
+            float: left;
+            margin-top: 0;
+            margin-bottom: 3%;
+            margin-left: 0; }
+            .container .cont03 .wrap .cont03_block01 .dl01 dt {
+              position: relative;
+              display: inline-block;
+              font-size: 100%;
+              color: #fff;
+              line-height: 30px;
+              text-align: center;
+              width: 35%;
+              height: 30px;
+              padding: 1% 0;
+              background: #5cb8e5; }
+              .container .cont03 .wrap .cont03_block01 .dl01 dt:before {
+                content: '';
+                position: absolute;
+                bottom: 12px;
+                left: 100%;
+                border: 7px solid transparent;
+                border-left: 9px solid #5cb8e5; }
+            .container .cont03 .wrap .cont03_block01 .dl01 dd {
+              margin: 0; }
+              .container .cont03 .wrap .cont03_block01 .dl01 dd.dd01 {
+                position: absolute;
+                top: 5%;
+                left: 35%;
+                height: 30px;
+                display: inline-block;
+                margin: 0 0 0 4%; }
+              .container .cont03 .wrap .cont03_block01 .dl01 dd .rank {
+                display: block;
+                font-size: 40px;
+                color: #5cb8e5;
+                text-align: center; }
+                .container .cont03 .wrap .cont03_block01 .dl01 dd .rank .decimal {
+                  font-size: 30px; }
+                .container .cont03 .wrap .cont03_block01 .dl01 dd .rank .proportion {
+                  font-size: 20px; }
+              .container .cont03 .wrap .cont03_block01 .dl01 dd .txt {
+                font-size: 100%;
+                text-align: justify;
+                margin-top: 5px; }
+          .container .cont03 .wrap .cont03_block01 .dl02 {
+            position: relative;
+            width: 100%;
+            float: left;
+            margin-top: 0;
+            margin-bottom: 3%;
+            margin-left: 0; }
+            .container .cont03 .wrap .cont03_block01 .dl02 dt {
+              position: relative;
+              display: inline-block;
+              font-size: 100%;
+              color: #fff;
+              line-height: 30px;
+              text-align: center;
+              width: 35%;
+              height: 30px;
+              padding: 1% 0;
+              background: #e5a1cf; }
+              .container .cont03 .wrap .cont03_block01 .dl02 dt:before {
+                content: '';
+                position: absolute;
+                bottom: 12px;
+                left: 100%;
+                border: 7px solid transparent;
+                border-left: 9px solid #e5a1cf; }
+            .container .cont03 .wrap .cont03_block01 .dl02 dd {
+              margin: 0; }
+              .container .cont03 .wrap .cont03_block01 .dl02 dd.dd01 {
+                position: absolute;
+                top: 5%;
+                left: 35%;
+                height: 30px;
+                display: inline-block;
+                margin: 0 0 0 4%; }
+              .container .cont03 .wrap .cont03_block01 .dl02 dd .rank {
+                display: block;
+                font-size: 40px;
+                color: #e5a1cf;
+                text-align: center; }
+                .container .cont03 .wrap .cont03_block01 .dl02 dd .rank .decimal {
+                  font-size: 30px; }
+                .container .cont03 .wrap .cont03_block01 .dl02 dd .rank .proportion {
+                  font-size: 20px; }
+              .container .cont03 .wrap .cont03_block01 .dl02 dd .txt {
+                font-size: 100%;
+                text-align: justify;
+                margin-top: 5px; }
+          .container .cont03 .wrap .cont03_block01 .dl03 {
+            position: relative;
+            width: 100%;
+            float: left;
+            margin-top: 0;
+            margin-bottom: 3%;
+            margin-left: 0; }
+            .container .cont03 .wrap .cont03_block01 .dl03 dt {
+              position: relative;
+              display: inline-block;
+              font-size: 100%;
+              color: #fff;
+              line-height: 30px;
+              text-align: center;
+              width: 35%;
+              height: 30px;
+              padding: 1% 0;
+              background: #ff9999; }
+              .container .cont03 .wrap .cont03_block01 .dl03 dt:before {
+                content: '';
+                position: absolute;
+                bottom: 12px;
+                left: 100%;
+                border: 7px solid transparent;
+                border-left: 9px solid #ff9999; }
+            .container .cont03 .wrap .cont03_block01 .dl03 dd {
+              margin: 0; }
+              .container .cont03 .wrap .cont03_block01 .dl03 dd.dd01 {
+                position: absolute;
+                top: 5%;
+                left: 35%;
+                height: 30px;
+                display: inline-block;
+                margin: 0 0 0 4%; }
+              .container .cont03 .wrap .cont03_block01 .dl03 dd .rank {
+                display: block;
+                font-size: 40px;
+                color: #ff9999;
+                text-align: center; }
+                .container .cont03 .wrap .cont03_block01 .dl03 dd .rank .decimal {
+                  font-size: 30px; }
+                .container .cont03 .wrap .cont03_block01 .dl03 dd .rank .proportion {
+                  font-size: 20px; }
+              .container .cont03 .wrap .cont03_block01 .dl03 dd .txt {
+                font-size: 100%;
+                text-align: justify;
+                margin-top: 5px; }
+          .container .cont03 .wrap .cont03_block01 .dl04 {
+            position: relative;
+            width: 100%;
+            float: left;
+            margin-top: 0;
+            margin-bottom: 3%;
+            margin-left: 0; }
+            .container .cont03 .wrap .cont03_block01 .dl04 dt {
+              position: relative;
+              display: inline-block;
+              font-size: 100%;
+              color: #fff;
+              line-height: 30px;
+              text-align: center;
+              width: 35%;
+              height: 30px;
+              padding: 1% 0;
+              background: #ffbf00; }
+              .container .cont03 .wrap .cont03_block01 .dl04 dt:before {
+                content: '';
+                position: absolute;
+                bottom: 12px;
+                left: 100%;
+                border: 7px solid transparent;
+                border-left: 9px solid #ffbf00; }
+            .container .cont03 .wrap .cont03_block01 .dl04 dd {
+              margin: 0; }
+              .container .cont03 .wrap .cont03_block01 .dl04 dd.dd01 {
+                position: absolute;
+                top: 5%;
+                left: 35%;
+                height: 30px;
+                display: inline-block;
+                margin: 0 0 0 4%; }
+              .container .cont03 .wrap .cont03_block01 .dl04 dd .rank {
+                display: block;
+                font-size: 40px;
+                color: #ffbf00;
+                text-align: center; }
+                .container .cont03 .wrap .cont03_block01 .dl04 dd .rank .decimal {
+                  font-size: 30px; }
+                .container .cont03 .wrap .cont03_block01 .dl04 dd .rank .proportion {
+                  font-size: 20px; }
+              .container .cont03 .wrap .cont03_block01 .dl04 dd .txt {
+                font-size: 100%;
+                text-align: justify;
+                margin-top: 5px; }
+          .container .cont03 .wrap .cont03_block01 .dl05 {
+            position: relative;
+            width: 100%;
+            float: left;
+            margin-top: 0;
+            margin-bottom: 3%;
+            margin-left: 0; }
+            .container .cont03 .wrap .cont03_block01 .dl05 dt {
+              position: relative;
+              display: inline-block;
+              font-size: 100%;
+              color: #fff;
+              line-height: 30px;
+              text-align: center;
+              width: 35%;
+              height: 30px;
+              padding: 1% 0;
+              background: #a3cc52; }
+              .container .cont03 .wrap .cont03_block01 .dl05 dt:before {
+                content: '';
+                position: absolute;
+                bottom: 12px;
+                left: 100%;
+                border: 7px solid transparent;
+                border-left: 9px solid #a3cc52; }
+            .container .cont03 .wrap .cont03_block01 .dl05 dd {
+              margin: 0; }
+              .container .cont03 .wrap .cont03_block01 .dl05 dd.dd01 {
+                position: absolute;
+                top: 5%;
+                left: 35%;
+                height: 30px;
+                display: inline-block;
+                margin: 0 0 0 4%; }
+              .container .cont03 .wrap .cont03_block01 .dl05 dd .rank {
+                display: block;
+                font-size: 40px;
+                color: #a3cc52;
+                text-align: center; }
+                .container .cont03 .wrap .cont03_block01 .dl05 dd .rank .decimal {
+                  font-size: 30px; }
+                .container .cont03 .wrap .cont03_block01 .dl05 dd .rank .proportion {
+                  font-size: 20px; }
+              .container .cont03 .wrap .cont03_block01 .dl05 dd .txt {
+                font-size: 100%;
+                text-align: justify;
+                margin-top: 5px; }
+    .container .cont04 .wrap {
+      padding: 5% 3% 15% 3%; }
+      .container .cont04 .wrap h3 {
+        margin: 3% 0; }
+      .container .cont04 .wrap .cont04_block01 {
+        padding: 0 3% 4% 3%; }
+        .container .cont04 .wrap .cont04_block01 h4 {
+          position: absolute;
+          top: -3%;
+          left: 5%;
+          width: 90%;
+          margin: 0 auto;
+          text-align: center; }
+          .container .cont04 .wrap .cont04_block01 h4 span {
+            display: none; }
+          .container .cont04 .wrap .cont04_block01 h4 img {
+            width: 100%;
+            height: auto; }
+        .container .cont04 .wrap .cont04_block01 .content_block01 {
+          margin-top: 15%; }
+          .container .cont04 .wrap .cont04_block01 .content_block01 .child01 ul li {
+            width: 100%;
+            float: none;
+            margin: 2% 0 0 0; }
+            .container .cont04 .wrap .cont04_block01 .content_block01 .child01 ul li span {
+              display: inline-block;
+              font-weight: bold; }
+          .container .cont04 .wrap .cont04_block01 .content_block01 .child01 img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 3%; }
+          .container .cont04 .wrap .cont04_block01 .content_block01 .child02 .tl_child02 {
+            margin: 8% 0 5% 0; }
+            .container .cont04 .wrap .cont04_block01 .content_block01 .child02 .tl_child02 img {
+              width: 90%;
+              height: auto;
+              margin: 0 auto; }
+          .container .cont04 .wrap .cont04_block01 .content_block01 .child02 ul {
+            width: 100%;
+            padding: 0;
+            margin-top: 2%; }
+            .container .cont04 .wrap .cont04_block01 .content_block01 .child02 ul li {
+              font-size: 90%;
+              width: 48%; }
+          .container .cont04 .wrap .cont04_block01 .content_block01 img {
+            width: 100%;
+            height: auto; }
+      .container .cont04 .wrap .cont04_block02 {
+        padding: 8% 0 5% 0; }
+        .container .cont04 .wrap .cont04_block02 .tl01 {
+          font-size: 125%; }
+        .container .cont04 .wrap .cont04_block02 .tl02 {
+          font-size: 160%;
+          margin-bottom: 10%; }
+        .container .cont04 .wrap .cont04_block02 .content_block02 .box01 {
+          width: 95.5%;
+          padding: 4% 2% 8% 2%;
+          margin: 0 auto;
+          float: none; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box01 h5 {
+            left: 50%;
+            margin-left: -31px; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box01 img {
+            width: 90%;
+            height: auto;
+            margin: 0 auto; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box01 .mtl {
+            font-size: 120%;
+            margin-top: 3%; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box01 .txt {
+            font-size: 100%;
+            height: auto;
+            margin: 5% 0 15% 0; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box01 .btn .ov {
+            font-size: 114.28571%;
+            color: #fff;
+            width: 85%;
+            height: auto;
+            padding: 0.5% 0;
+            background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 4% center no-repeat; }
+        .container .cont04 .wrap .cont04_block02 .content_block02 .box02 {
+          width: 95.5%;
+          padding: 4% 2% 8% 2%;
+          margin: 0 auto;
+          margin-top: 15%;
+          float: none; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box02 h5 {
+            left: 50%;
+            margin-left: -31px; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box02 img {
+            width: 90%;
+            height: auto;
+            margin: 0 auto; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box02 .mtl {
+            font-size: 120%;
+            margin-top: 3%; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box02 .txt {
+            font-size: 100%;
+            height: auto;
+            margin: 5% 0 15% 0; }
+          .container .cont04 .wrap .cont04_block02 .content_block02 .box02 .btn .ov {
+            font-size: 114.28571%;
+            color: #fff;
+            width: 85%;
+            height: auto;
+            padding: 0.5% 0;
+            background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 4% center no-repeat; }
+      .container .cont04 .wrap .cont04_block03 {
+        padding: 5% 3%;
+        background: #fff; }
+        .container .cont04 .wrap .cont04_block03 h2 {
+          text-align: center;
+          margin: 0 0 3% 0; }
+          .container .cont04 .wrap .cont04_block03 h2 img {
+            width: 80%;
+            height: auto;
+            margin: 0 auto; }
+        .container .cont04 .wrap .cont04_block03 .content_block03 {
+          position: relative;
+          text-align: justify; }
+          .container .cont04 .wrap .cont04_block03 .content_block03 .box_left {
+            margin-top: 4%;
+            width: 100%;
+            float: none; }
+            .container .cont04 .wrap .cont04_block03 .content_block03 .box_left img {
+              width: 50%;
+              height: auto;
+              float: left; }
+            .container .cont04 .wrap .cont04_block03 .content_block03 .box_left .txt {
+              position: absolute;
+              bottom: 0;
+              left: 53%;
+              width: 45%;
+              float: right;
+              vertical-align: bottom; }
+              .container .cont04 .wrap .cont04_block03 .content_block03 .box_left .txt .htxt {
+                font-size: 90%; }
+              .container .cont04 .wrap .cont04_block03 .content_block03 .box_left .txt .name {
+                font-size: 130%;
+                font-weight: bold; }
+                .container .cont04 .wrap .cont04_block03 .content_block03 .box_left .txt .name span {
+                  font-size: 110%; }
+        .container .cont04 .wrap .cont04_block03 .box_right {
+          font-weight: bold;
+          width: 100%;
+          float: none; }
+          .container .cont04 .wrap .cont04_block03 .box_right .mt30 {
+            margin-top: 2%;
+            font-weight: normal; }
+          .container .cont04 .wrap .cont04_block03 .box_right img {
+            width: 15%;
+            height: auto;
+            vertical-align: top; }
+          .container .cont04 .wrap .cont04_block03 .box_right span {
+            display: inline-block;
+            width: 83%; } }
+
+/*# sourceMappingURL=reason.css.map */

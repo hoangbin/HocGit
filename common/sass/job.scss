@@ -1,0 +1,774 @@
+@import 'inc';
+.mv {
+  background: url("/medi-caree/common/img/job/mv.png") no-repeat center;
+}
+.container {
+    width: 100%;
+    min-width: 1000px;
+  .cont01 {
+    width: 100%;
+    background: url("/medi-caree/common/img/job/bg_cont.png");
+    .wrap {
+      padding: 70px 0 100px 0;
+      .content_box {
+        .left {
+          float: left;
+        }
+        .right {
+          float: right;
+        }
+        margin-top: 90px;
+        $color: #ff6699;
+        $bg_dt: quote;
+        $arrow: arrow01;
+         $list_box: 1 2 3 4 5 6 7 8 9 10 11 12 13 14;
+        // $list_color: #ff6699 #ff6699 #ff6699 #b865a5 #b865a5 #b865a5 #b865a5 #b865a5 #b865a5 #f5ba0f #91c93c #4ac6e3 #0d8dce #f46371 #ff8c97 ;
+          @each $current_box in $list_box {
+            $i: index($list_box, $current_box);
+            @if ($i ==1) or ($i==2) or ($i==3) {
+                $color: #ff6699;
+                $bg_dt: quote01;
+                $arrow: arrow01;
+              }
+              @else if ($i==4) or ($i==5) or ($i==6) or ($i==7) or ($i==8) {
+                $color: #b865a5;
+                $bg_dt: quote02;
+                $arrow: arrow02;
+              }
+               @else if $i==9 {
+                $color: #f5ba0f;
+                $bg_dt: quote03;
+                $arrow: arrow03;
+              }
+
+              @else if $i==10 {
+                $color: #91c93c;
+                $bg_dt: quote04;
+                $arrow: arrow04;
+              }
+              @else if $i==11 {
+                $color: #4ac6e3;
+                $bg_dt: quote05;
+                $arrow: arrow05;
+              }
+              @else if $i==12 {
+                $color: #0d8dce;
+                $bg_dt: quote06;
+                $arrow: arrow06;
+              }
+              @else if $i==13 {
+                $color: #f46371;
+                $bg_dt: quote07;
+                $arrow: arrow07;
+              }
+              @else if $i==14 {
+                $color: #ff8c97;
+                $bg_dt: quote08;
+                $arrow: arrow08;
+              }
+
+          .box0#{$i} {
+            width: 460px;
+            margin-bottom: 80px;
+            dt {
+              font-size: $fz20;
+              font-weight: bold;
+              line-height: 1.5;
+              height: 90px;
+              padding: 30px 35px 0 30px;
+              background: url("/medi-caree/common/img/job/#{$bg_dt}.png") no-repeat;
+              span {
+                display: inline;
+                background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x;
+              }
+            }
+            .cont_box0#{$i} {
+              
+              margin: 0;
+              padding: 40px 20px 30px 190px;
+              background: url("/medi-caree/common/img/job/bg_box0#{$i}.png") no-repeat;
+              .shape {
+                position: relative; 
+                width: 202px;
+                height: 118px;
+                padding: 0 30px 0 20px;
+                background: #fff;
+                 &:before{ 
+                  content:'';
+                  position: absolute;
+                  bottom: 50px;
+                  left: -15px;
+                  border-top: 12px solid transparent;
+                  border-bottom: 12px solid transparent;
+                  border-right: 15px solid #fff;
+                }
+                .txt {
+                  position: absolute;
+                  top: 50%;
+                  transform: translateY(-50%);
+                  font-size: 18px;
+                  font-weight: bold;
+                  span {
+                    font-size: 25px;
+                    color: $color;
+                  }
+                }
+              }
+              .btn {
+                margin-top: 30px;
+                span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  background: #fff url("/medi-caree/common/img/job/#{$arrow}.png") right 10px center no-repeat;
+                  background-color: #fff;
+                  border: 4px solid $color;
+                  &:hover {
+                  color: #fff;
+                  background: $color url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: $color;
+                  }
+                } 
+              }
+             }
+          }
+        }
+      }
+    }
+  }
+}
+ $color: #ff6699;
+ $icon: icon_box01;
+ $list_box: 1 2 3 4 5 6 7 8 9 10 11 12 13 14;
+ @each $current_box in $list_box {
+  $i: index($list_box, $current_box);
+  @if ($i ==1) or ($i==2) or ($i==3) {
+  $color: #ff6699;
+  $icon: icon_box01;
+  }
+  @else if ($i==4) or ($i==5) or ($i==6) or ($i==7) or ($i==8) {
+    $color: #b865a5;
+    $icon: icon_box02;
+  }
+  @else if $i==9 {
+    $color: #f5ba0f;
+    $icon: icon_box03;
+  }
+  @else if $i==10 {
+    $color: #91c93c;
+    $icon: icon_box04;
+  }
+   @else if $i==11 {
+    $color: #4ac6e3;
+    $icon: icon_box05;
+  }
+  @else if $i==12 {
+    $color: #0d8dce;
+    $icon: icon_box06;
+  }
+  @else if $i==13 {
+    $color: #f46371;
+    $icon: icon_box07;
+  }
+  @else if $i==14 {
+    $color: #ff8c97;
+    $icon: icon_box08;
+  }
+  .lightbox0#{$i} {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 900px;
+    h2 {
+      color: #fff;
+      height:45px;
+      line-height: 45px;
+      padding: 0 0 0 30px;
+      margin: 0;
+      background: $color;
+    }
+    .c-lightbox {
+      padding: 15px 30px;
+      .tbl {
+        width: 100%;
+        .tl_col{
+          color: #fff;
+          font-weight: bold;
+          margin-top: 30px;
+          padding: 3px 5px;
+          background: $color;
+        }
+        .col01 {
+          width: 394px;
+          float: left;
+        }
+        .col02 {
+          width: 394px;
+          float: right;
+        }
+        ul {
+          margin: 5px 0 0 0;
+          padding: 0;
+          li {
+            font-size:18px;
+            list-style: none;
+            span {
+              color: $color;
+              font-size:18px;
+            }
+          }
+        }
+      }
+      @if ($i==10) or ($i==12) or ($i==13) or ($i==14) {
+        .btn2 {
+          display: table;
+          margin-top: 20px;
+        }
+             .bt_box01, .bt_box02 {
+           display: table-cell;
+          width: 394px;
+          margin-top: 30px;
+           .tl_bt {
+            width: 290px;
+            margin: 0 auto;
+            text-align: center;
+             
+            
+            p {
+
+              display: inline-block;
+              position: relative;
+              font-size: 18px;
+              font-weight: bold;
+              text-align: center;
+              vertical-align: bottom;
+
+              &:before {
+                content:'';
+                position: absolute;
+                left: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+
+
+                background: url("/medi-caree/common/img/job/before.png") no-repeat;
+              }
+               &:after {
+                content:'';
+                position: absolute;
+                right: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+               
+                background: url("/medi-caree/common/img/job/after.png") no-repeat;
+              }
+              
+              span {
+                color: $color;
+              }
+            }
+          }
+          .btn {
+            text-align: center;
+            width: 270px;
+            margin: 0 auto;
+            padding-top: 15px;
+            span {
+              display: block;
+              text-align: center;
+              font-weight: bold;
+              font-size: 18px;
+              width: 220px;
+              padding: 8px 40px 8px 0;
+              background: #fff url("/medi-caree/common/img/job/#{$icon}.png") right 10px center no-repeat;
+              border: 4px solid $color;
+              &:hover {
+              color: #fff;
+              background: $color url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat;
+              }
+            } 
+          }
+        }
+
+      }
+      .bt_box {
+          width: 100%;
+          margin-top: 30px;
+          .tl_bt {
+            width: 290px;
+            margin: 0 auto;
+            text-align: center;
+             
+            
+            p {
+
+              display: inline-block;
+              position: relative;
+              font-size: 18px;
+              font-weight: bold;
+              text-align: center;
+              vertical-align: bottom;
+
+              &:before {
+                content:'';
+                position: absolute;
+                left: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+
+
+                background: url("/medi-caree/common/img/job/before.png") no-repeat;
+              }
+               &:after {
+                content:'';
+                position: absolute;
+                right: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+               
+                background: url("/medi-caree/common/img/job/after.png") no-repeat;
+              }
+              
+              span {
+                color: $color;
+              }
+            }
+          }
+          .btn {
+            text-align: center;
+            width: 270px;
+            margin: 0 auto;
+            padding-top: 15px;
+            span {
+              display: block;
+              text-align: center;
+              font-weight: bold;
+              font-size: 18px;
+              width: 221px;
+              padding: 8px 40px 8px 0;
+              background: #fff url("/medi-caree/common/img/job/#{$icon}.png") right 10px center no-repeat;
+              border: 4px solid $color;
+              &:hover {
+              color: #fff;
+              background: $color url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat;
+              }
+            } 
+          }
+      }
+    }
+  }
+}
+@media only screen and (max-width:768px) {
+      .mv {
+    min-width: 100%;
+    background: none;
+    padding: 0;
+    .wrap{
+      width: 100%;
+      padding: 0;
+      img {
+      width: 100%;
+      height: auto;
+      }
+    }
+    
+  }
+  .container {
+    min-width: 100%;
+    .cont01 {
+      width: 100%;
+      background: #fff;
+      .wrap {
+        width: 100%;
+        padding: 5% 0 15% 0;
+        h3 { 
+          width: 94%;
+          margin:0 auto;
+        }
+
+        .content_box {
+        .left {
+          float: none;
+        }
+        .right {
+          float: none;
+        }
+        dd {
+          margin: 0;
+        }
+        margin-top: 5%;
+        $color: #ff6699;
+        $bg_dt: quote;
+        $arrow: arrow01;
+         $list_box: 1 2 3 4 5 6 7 8 9 10 11 12 13 14;
+        // $list_color: #ff6699 #ff6699 #ff6699 #b865a5 #b865a5 #b865a5 #b865a5 #b865a5 #b865a5 #f5ba0f #91c93c #4ac6e3 #0d8dce #f46371 #ff8c97 ;
+          @each $current_box in $list_box {
+            $i: index($list_box, $current_box);
+            @if ($i ==1) or ($i==2) or ($i==3) {
+                $color: #ff6699;
+                $bg_dt: quote01;
+                $arrow: arrow01;
+              }
+              @else if ($i==4) or ($i==5) or ($i==6) or ($i==7) or ($i==8) {
+                $color: #b865a5;
+                $bg_dt: quote02;
+                $arrow: arrow02;
+              }
+               @else if $i==9 {
+                $color: #f5ba0f;
+                $bg_dt: quote03;
+                $arrow: arrow03;
+              }
+
+              @else if $i==10 {
+                $color: #91c93c;
+                $bg_dt: quote04;
+                $arrow: arrow04;
+              }
+              @else if $i==11 {
+                $color: #4ac6e3;
+                $bg_dt: quote05;
+                $arrow: arrow05;
+              }
+              @else if $i==12 {
+                $color: #0d8dce;
+                $bg_dt: quote06;
+                $arrow: arrow06;
+              }
+              @else if $i==13 {
+                $color: #f46371;
+                $bg_dt: quote07;
+                $arrow: arrow07;
+              }
+              @else if $i==14 {
+                $color: #ff8c97;
+                $bg_dt: quote08;
+                $arrow: arrow08;
+              }
+
+          .box0#{$i} {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%;
+            dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none;
+              img {
+                width: 100%;
+                height: auto;
+              }
+              p {
+               display: none;
+              }
+            }
+            .open {
+              img {
+                display: (block !important);
+              }
+              .btn {
+                display: (block !important);
+              }
+            }
+            .cont_box0#{$i} {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none;
+              img {
+                display: none;
+                width: 100%;
+                height: auto;
+              }
+              .shape {
+                display: none;
+                }
+              .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%;
+                span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/#{$arrow}.png") right 10px center no-repeat;
+                  border: 4px solid $color;
+                  &:hover {
+                  color: #444;
+                  background: #fff url("/medi-caree/common/img/job/#{$arrow}.png") right 10px center no-repeat;
+                  }
+                } 
+              }
+              .close_box, .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: $color;
+                padding: 2% 0;
+                cursor: pointer;
+                i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom;
+                }
+              }
+
+            }
+          }
+        }
+      }
+    }
+  }
+}
+ $color: #ff6699;
+ $icon: icon_box01;
+ $list_box: 1 2 3 4 5 6 7 8 9 10 11 12 13 14;
+ @each $current_box in $list_box {
+  $i: index($list_box, $current_box);
+  @if ($i ==1) or ($i==2) or ($i==3) {
+  $color: #ff6699;
+  $icon: icon_box01;
+  }
+  @else if ($i==4) or ($i==5) or ($i==6) or ($i==7) or ($i==8) {
+    $color: #b865a5;
+    $icon: icon_box02;
+  }
+  @else if $i==9 {
+    $color: #f5ba0f;
+    $icon: icon_box03;
+  }
+  @else if $i==10 {
+    $color: #91c93c;
+    $icon: icon_box04;
+  }
+   @else if $i==11 {
+    $color: #4ac6e3;
+    $icon: icon_box05;
+  }
+  @else if $i==12 {
+    $color: #0d8dce;
+    $icon: icon_box06;
+  }
+  @else if $i==13 {
+    $color: #f46371;
+    $icon: icon_box07;
+  }
+  @else if $i==14 {
+    $color: #ff8c97;
+    $icon: icon_box08;
+  }
+  .lightbox0#{$i} {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto;
+    h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: $color;
+    }
+    .c-lightbox {
+      padding: 2% 3%;
+      p{
+        font-size: 80%;
+        line-height: 1.7em;
+      }
+      .tbl {
+        width: 100%;
+        .tl_col{
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: $color;
+        }
+        .col01 {
+          width: 100%;
+          float: none;
+        }
+        .col02 {
+          width: 100%;
+          float: none;
+        }
+        ul {
+          margin: 5px 0 0 0;
+          padding: 0;
+          li {
+            font-size:80%;
+            list-style: none;
+            line-height: 1.6em;
+            span {
+              color: $color;
+              font-size:80%;
+            }
+          }
+        }
+      }
+      @if ($i==10) or ($i==12) or ($i==13) or ($i==14) {
+         .btn2 {
+           display: block;
+            margin-top: 0;
+         }
+        .bt_box01, .bt_box02 {
+          display : list-item;
+          list-style: none;
+          width: 100%;
+          margin-top: 4%;
+           .tl_bt {
+            width: 65%;
+            margin: 0 auto;
+            text-align: center;
+             
+            
+            p {
+
+              display: inline-block;
+              position: relative;
+              font-size: 110%;
+              font-weight: bold;
+              text-align: center;
+              vertical-align: bottom;
+
+              &:before {
+                content:'';
+                position: absolute;
+                left: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+
+
+                background: url("/medi-caree/common/img/job/before.png") no-repeat;
+              }
+               &:after {
+                content:'';
+                position: absolute;
+                right: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+               
+                background: url("/medi-caree/common/img/job/after.png") no-repeat;
+              }
+              
+              span {
+                color: $color;
+              }
+            }
+          }
+          .btn {
+            text-align: center;
+            width: 70%;
+            margin: 0 auto;
+            padding-top: 15px;
+            span {
+              display: block;
+              text-align: center;
+              font-weight: bold;
+              font-size: 18px;
+              width: 85%;
+              padding: 2% 3% 2% 0;
+              margin-left: 4%;
+              background: #fff url("/medi-caree/common/img/job/#{$icon}.png") right 10px center no-repeat;
+              border: 4px solid $color;
+              &:hover {
+              color: #444;
+               background: #fff url("/medi-caree/common/img/job/#{$icon}.png") right 10px center no-repeat;
+              }
+            } 
+          }
+        }
+
+      }
+      .bt_box {
+          width: 100%;
+          margin-top: 30px;
+          .tl_bt {
+            width: 65%;
+            margin: 0 auto;
+            text-align: center;
+             
+            
+            p {
+
+              display: inline-block;
+              position: relative;
+              font-size: 110%;
+              font-weight: bold;
+              text-align: center;
+              vertical-align: bottom;
+
+              &:before {
+                content:'';
+                position: absolute;
+                left: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+
+
+                background: url("/medi-caree/common/img/job/before.png") no-repeat;
+              }
+               &:after {
+                content:'';
+                position: absolute;
+                right: -20px;
+                bottom: 7px;
+                width: 12px;
+                height: 20px;
+               
+                background: url("/medi-caree/common/img/job/after.png") no-repeat;
+              }
+              
+              span {
+                color: $color;
+              }
+            }
+          }
+          .btn {
+            text-align: center;
+            width: 80%;
+            margin: 0 auto;
+            padding-top: 15px;
+            span {
+              display: block;
+              text-align: center;
+              font-weight: bold;
+              font-size: 100%;
+              width: 80%;
+              padding: 2% 3% 2% 0;
+              margin: 0 auto;
+              background: #fff url("/medi-caree/common/img/job/#{$icon}.png") right 10px center no-repeat;
+              border: 4px solid $color;
+              &:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/#{$icon}.png") right 10px center no-repeat;
+              }
+            } 
+          }
+        }
+      }
+    }
+  }
+}

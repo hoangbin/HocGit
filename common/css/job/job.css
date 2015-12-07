@@ -1,0 +1,4655 @@
+.mv {
+  background: url("/medi-caree/common/img/job/mv.png") no-repeat center; }
+
+.container {
+  width: 100%;
+  min-width: 1000px; }
+  .container .cont01 {
+    width: 100%;
+    background: url("/medi-caree/common/img/job/bg_cont.png"); }
+    .container .cont01 .wrap {
+      padding: 70px 0 100px 0; }
+      .container .cont01 .wrap .content_box {
+        margin-top: 90px; }
+        .container .cont01 .wrap .content_box .left {
+          float: left; }
+        .container .cont01 .wrap .content_box .right {
+          float: right; }
+        .container .cont01 .wrap .content_box .box01 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box01 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote01.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box01 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box01 .cont_box01 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box01.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box01 .cont_box01 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box01 .cont_box01 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box01 .cont_box01 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box01 .cont_box01 .shape .txt span {
+                  font-size: 25px;
+                  color: #ff6699; }
+            .container .cont01 .wrap .content_box .box01 .cont_box01 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box01 .cont_box01 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #ff6699; }
+                .container .cont01 .wrap .content_box .box01 .cont_box01 .btn span:hover {
+                  color: #fff;
+                  background: #ff6699 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #ff6699; }
+        .container .cont01 .wrap .content_box .box02 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box02 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote01.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box02 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box02 .cont_box02 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box02.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box02 .cont_box02 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box02 .cont_box02 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box02 .cont_box02 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box02 .cont_box02 .shape .txt span {
+                  font-size: 25px;
+                  color: #ff6699; }
+            .container .cont01 .wrap .content_box .box02 .cont_box02 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box02 .cont_box02 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #ff6699; }
+                .container .cont01 .wrap .content_box .box02 .cont_box02 .btn span:hover {
+                  color: #fff;
+                  background: #ff6699 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #ff6699; }
+        .container .cont01 .wrap .content_box .box03 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box03 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote01.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box03 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box03 .cont_box03 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box03.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box03 .cont_box03 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box03 .cont_box03 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box03 .cont_box03 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box03 .cont_box03 .shape .txt span {
+                  font-size: 25px;
+                  color: #ff6699; }
+            .container .cont01 .wrap .content_box .box03 .cont_box03 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box03 .cont_box03 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #ff6699; }
+                .container .cont01 .wrap .content_box .box03 .cont_box03 .btn span:hover {
+                  color: #fff;
+                  background: #ff6699 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #ff6699; }
+        .container .cont01 .wrap .content_box .box04 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box04 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote02.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box04 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box04 .cont_box04 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box04.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box04 .cont_box04 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box04 .cont_box04 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box04 .cont_box04 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box04 .cont_box04 .shape .txt span {
+                  font-size: 25px;
+                  color: #b865a5; }
+            .container .cont01 .wrap .content_box .box04 .cont_box04 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box04 .cont_box04 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #b865a5; }
+                .container .cont01 .wrap .content_box .box04 .cont_box04 .btn span:hover {
+                  color: #fff;
+                  background: #b865a5 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #b865a5; }
+        .container .cont01 .wrap .content_box .box05 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box05 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote02.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box05 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box05 .cont_box05 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box05.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box05 .cont_box05 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box05 .cont_box05 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box05 .cont_box05 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box05 .cont_box05 .shape .txt span {
+                  font-size: 25px;
+                  color: #b865a5; }
+            .container .cont01 .wrap .content_box .box05 .cont_box05 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box05 .cont_box05 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #b865a5; }
+                .container .cont01 .wrap .content_box .box05 .cont_box05 .btn span:hover {
+                  color: #fff;
+                  background: #b865a5 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #b865a5; }
+        .container .cont01 .wrap .content_box .box06 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box06 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote02.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box06 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box06 .cont_box06 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box06.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box06 .cont_box06 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box06 .cont_box06 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box06 .cont_box06 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box06 .cont_box06 .shape .txt span {
+                  font-size: 25px;
+                  color: #b865a5; }
+            .container .cont01 .wrap .content_box .box06 .cont_box06 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box06 .cont_box06 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #b865a5; }
+                .container .cont01 .wrap .content_box .box06 .cont_box06 .btn span:hover {
+                  color: #fff;
+                  background: #b865a5 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #b865a5; }
+        .container .cont01 .wrap .content_box .box07 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box07 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote02.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box07 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box07 .cont_box07 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box07.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box07 .cont_box07 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box07 .cont_box07 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box07 .cont_box07 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box07 .cont_box07 .shape .txt span {
+                  font-size: 25px;
+                  color: #b865a5; }
+            .container .cont01 .wrap .content_box .box07 .cont_box07 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box07 .cont_box07 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #b865a5; }
+                .container .cont01 .wrap .content_box .box07 .cont_box07 .btn span:hover {
+                  color: #fff;
+                  background: #b865a5 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #b865a5; }
+        .container .cont01 .wrap .content_box .box08 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box08 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote02.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box08 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box08 .cont_box08 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box08.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box08 .cont_box08 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box08 .cont_box08 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box08 .cont_box08 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box08 .cont_box08 .shape .txt span {
+                  font-size: 25px;
+                  color: #b865a5; }
+            .container .cont01 .wrap .content_box .box08 .cont_box08 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box08 .cont_box08 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #b865a5; }
+                .container .cont01 .wrap .content_box .box08 .cont_box08 .btn span:hover {
+                  color: #fff;
+                  background: #b865a5 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #b865a5; }
+        .container .cont01 .wrap .content_box .box09 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box09 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote03.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box09 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box09 .cont_box09 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box09.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box09 .cont_box09 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box09 .cont_box09 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box09 .cont_box09 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box09 .cont_box09 .shape .txt span {
+                  font-size: 25px;
+                  color: #f5ba0f; }
+            .container .cont01 .wrap .content_box .box09 .cont_box09 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box09 .cont_box09 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow03.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #f5ba0f; }
+                .container .cont01 .wrap .content_box .box09 .cont_box09 .btn span:hover {
+                  color: #fff;
+                  background: #f5ba0f url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #f5ba0f; }
+        .container .cont01 .wrap .content_box .box010 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box010 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote04.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box010 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box010 .cont_box010 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box010.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box010 .cont_box010 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box010 .cont_box010 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box010 .cont_box010 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box010 .cont_box010 .shape .txt span {
+                  font-size: 25px;
+                  color: #91c93c; }
+            .container .cont01 .wrap .content_box .box010 .cont_box010 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box010 .cont_box010 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow04.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #91c93c; }
+                .container .cont01 .wrap .content_box .box010 .cont_box010 .btn span:hover {
+                  color: #fff;
+                  background: #91c93c url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #91c93c; }
+        .container .cont01 .wrap .content_box .box011 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box011 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote05.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box011 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box011 .cont_box011 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box011.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box011 .cont_box011 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box011 .cont_box011 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box011 .cont_box011 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box011 .cont_box011 .shape .txt span {
+                  font-size: 25px;
+                  color: #4ac6e3; }
+            .container .cont01 .wrap .content_box .box011 .cont_box011 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box011 .cont_box011 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow05.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #4ac6e3; }
+                .container .cont01 .wrap .content_box .box011 .cont_box011 .btn span:hover {
+                  color: #fff;
+                  background: #4ac6e3 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #4ac6e3; }
+        .container .cont01 .wrap .content_box .box012 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box012 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote06.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box012 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box012 .cont_box012 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box012.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box012 .cont_box012 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box012 .cont_box012 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box012 .cont_box012 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box012 .cont_box012 .shape .txt span {
+                  font-size: 25px;
+                  color: #0d8dce; }
+            .container .cont01 .wrap .content_box .box012 .cont_box012 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box012 .cont_box012 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow06.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #0d8dce; }
+                .container .cont01 .wrap .content_box .box012 .cont_box012 .btn span:hover {
+                  color: #fff;
+                  background: #0d8dce url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #0d8dce; }
+        .container .cont01 .wrap .content_box .box013 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box013 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote07.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box013 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box013 .cont_box013 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box013.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box013 .cont_box013 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box013 .cont_box013 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box013 .cont_box013 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box013 .cont_box013 .shape .txt span {
+                  font-size: 25px;
+                  color: #f46371; }
+            .container .cont01 .wrap .content_box .box013 .cont_box013 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box013 .cont_box013 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow07.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #f46371; }
+                .container .cont01 .wrap .content_box .box013 .cont_box013 .btn span:hover {
+                  color: #fff;
+                  background: #f46371 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #f46371; }
+        .container .cont01 .wrap .content_box .box014 {
+          width: 460px;
+          margin-bottom: 80px; }
+          .container .cont01 .wrap .content_box .box014 dt {
+            font-size: 142.85714%;
+            font-weight: bold;
+            line-height: 1.5;
+            height: 90px;
+            padding: 30px 35px 0 30px;
+            background: url("/medi-caree/common/img/job/quote08.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box014 dt span {
+              display: inline;
+              background: url("/medi-caree/common/img/job/bg_txt_cont01.png") left bottom repeat-x; }
+          .container .cont01 .wrap .content_box .box014 .cont_box014 {
+            margin: 0;
+            padding: 40px 20px 30px 190px;
+            background: url("/medi-caree/common/img/job/bg_box014.png") no-repeat; }
+            .container .cont01 .wrap .content_box .box014 .cont_box014 .shape {
+              position: relative;
+              width: 202px;
+              height: 118px;
+              padding: 0 30px 0 20px;
+              background: #fff; }
+              .container .cont01 .wrap .content_box .box014 .cont_box014 .shape:before {
+                content: '';
+                position: absolute;
+                bottom: 50px;
+                left: -15px;
+                border-top: 12px solid transparent;
+                border-bottom: 12px solid transparent;
+                border-right: 15px solid #fff; }
+              .container .cont01 .wrap .content_box .box014 .cont_box014 .shape .txt {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: bold; }
+                .container .cont01 .wrap .content_box .box014 .cont_box014 .shape .txt span {
+                  font-size: 25px;
+                  color: #ff8c97; }
+            .container .cont01 .wrap .content_box .box014 .cont_box014 .btn {
+              margin-top: 30px; }
+              .container .cont01 .wrap .content_box .box014 .cont_box014 .btn span {
+                display: block;
+                font-size: 13px;
+                text-align: right;
+                font-weight: bold;
+                width: 205px;
+                padding: 8px 40px 8px 0;
+                background: #fff url("/medi-caree/common/img/job/arrow08.png") right 10px center no-repeat;
+                background-color: #fff;
+                border: 4px solid #ff8c97; }
+                .container .cont01 .wrap .content_box .box014 .cont_box014 .btn span:hover {
+                  color: #fff;
+                  background: #ff8c97 url("/medi-caree/common/img/job/arrow_on.png") right 10px center no-repeat;
+                  background-color: #ff8c97; }
+
+.lightbox01 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox01 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #ff6699; }
+  .lightbox01 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox01 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox01 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #ff6699; }
+      .lightbox01 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox01 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox01 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox01 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox01 .c-lightbox .tbl ul li span {
+            color: #ff6699;
+            font-size: 18px; }
+    .lightbox01 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox01 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox01 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox01 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox01 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox01 .c-lightbox .bt_box .tl_bt p span {
+            color: #ff6699; }
+      .lightbox01 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox01 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat;
+          border: 4px solid #ff6699; }
+          .lightbox01 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #ff6699 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox02 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox02 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #ff6699; }
+  .lightbox02 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox02 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox02 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #ff6699; }
+      .lightbox02 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox02 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox02 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox02 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox02 .c-lightbox .tbl ul li span {
+            color: #ff6699;
+            font-size: 18px; }
+    .lightbox02 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox02 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox02 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox02 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox02 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox02 .c-lightbox .bt_box .tl_bt p span {
+            color: #ff6699; }
+      .lightbox02 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox02 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat;
+          border: 4px solid #ff6699; }
+          .lightbox02 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #ff6699 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox03 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox03 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #ff6699; }
+  .lightbox03 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox03 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox03 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #ff6699; }
+      .lightbox03 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox03 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox03 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox03 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox03 .c-lightbox .tbl ul li span {
+            color: #ff6699;
+            font-size: 18px; }
+    .lightbox03 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox03 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox03 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox03 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox03 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox03 .c-lightbox .bt_box .tl_bt p span {
+            color: #ff6699; }
+      .lightbox03 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox03 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat;
+          border: 4px solid #ff6699; }
+          .lightbox03 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #ff6699 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox04 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox04 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #b865a5; }
+  .lightbox04 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox04 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox04 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #b865a5; }
+      .lightbox04 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox04 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox04 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox04 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox04 .c-lightbox .tbl ul li span {
+            color: #b865a5;
+            font-size: 18px; }
+    .lightbox04 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox04 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox04 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox04 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox04 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox04 .c-lightbox .bt_box .tl_bt p span {
+            color: #b865a5; }
+      .lightbox04 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox04 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+          border: 4px solid #b865a5; }
+          .lightbox04 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #b865a5 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox05 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox05 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #b865a5; }
+  .lightbox05 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox05 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox05 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #b865a5; }
+      .lightbox05 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox05 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox05 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox05 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox05 .c-lightbox .tbl ul li span {
+            color: #b865a5;
+            font-size: 18px; }
+    .lightbox05 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox05 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox05 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox05 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox05 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox05 .c-lightbox .bt_box .tl_bt p span {
+            color: #b865a5; }
+      .lightbox05 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox05 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+          border: 4px solid #b865a5; }
+          .lightbox05 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #b865a5 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox06 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox06 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #b865a5; }
+  .lightbox06 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox06 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox06 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #b865a5; }
+      .lightbox06 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox06 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox06 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox06 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox06 .c-lightbox .tbl ul li span {
+            color: #b865a5;
+            font-size: 18px; }
+    .lightbox06 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox06 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox06 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox06 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox06 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox06 .c-lightbox .bt_box .tl_bt p span {
+            color: #b865a5; }
+      .lightbox06 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox06 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+          border: 4px solid #b865a5; }
+          .lightbox06 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #b865a5 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox07 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox07 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #b865a5; }
+  .lightbox07 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox07 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox07 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #b865a5; }
+      .lightbox07 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox07 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox07 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox07 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox07 .c-lightbox .tbl ul li span {
+            color: #b865a5;
+            font-size: 18px; }
+    .lightbox07 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox07 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox07 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox07 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox07 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox07 .c-lightbox .bt_box .tl_bt p span {
+            color: #b865a5; }
+      .lightbox07 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox07 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+          border: 4px solid #b865a5; }
+          .lightbox07 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #b865a5 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox08 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox08 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #b865a5; }
+  .lightbox08 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox08 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox08 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #b865a5; }
+      .lightbox08 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox08 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox08 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox08 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox08 .c-lightbox .tbl ul li span {
+            color: #b865a5;
+            font-size: 18px; }
+    .lightbox08 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox08 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox08 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox08 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox08 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox08 .c-lightbox .bt_box .tl_bt p span {
+            color: #b865a5; }
+      .lightbox08 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox08 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+          border: 4px solid #b865a5; }
+          .lightbox08 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #b865a5 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox09 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox09 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #f5ba0f; }
+  .lightbox09 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox09 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox09 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #f5ba0f; }
+      .lightbox09 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox09 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox09 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox09 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox09 .c-lightbox .tbl ul li span {
+            color: #f5ba0f;
+            font-size: 18px; }
+    .lightbox09 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox09 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox09 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox09 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox09 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox09 .c-lightbox .bt_box .tl_bt p span {
+            color: #f5ba0f; }
+      .lightbox09 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox09 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box03.png") right 10px center no-repeat;
+          border: 4px solid #f5ba0f; }
+          .lightbox09 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #f5ba0f url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox010 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox010 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #91c93c; }
+  .lightbox010 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox010 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox010 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #91c93c; }
+      .lightbox010 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox010 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox010 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox010 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox010 .c-lightbox .tbl ul li span {
+            color: #91c93c;
+            font-size: 18px; }
+    .lightbox010 .c-lightbox .btn2 {
+      display: table;
+      margin-top: 20px; }
+    .lightbox010 .c-lightbox .bt_box01, .lightbox010 .c-lightbox .bt_box02 {
+      display: table-cell;
+      width: 394px;
+      margin-top: 30px; }
+      .lightbox010 .c-lightbox .bt_box01 .tl_bt, .lightbox010 .c-lightbox .bt_box02 .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox010 .c-lightbox .bt_box01 .tl_bt p, .lightbox010 .c-lightbox .bt_box02 .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox010 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox010 .c-lightbox .bt_box02 .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox010 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox010 .c-lightbox .bt_box02 .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox010 .c-lightbox .bt_box01 .tl_bt p span, .lightbox010 .c-lightbox .bt_box02 .tl_bt p span {
+            color: #91c93c; }
+      .lightbox010 .c-lightbox .bt_box01 .btn, .lightbox010 .c-lightbox .bt_box02 .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox010 .c-lightbox .bt_box01 .btn span, .lightbox010 .c-lightbox .bt_box02 .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 220px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box04.png") right 10px center no-repeat;
+          border: 4px solid #91c93c; }
+          .lightbox010 .c-lightbox .bt_box01 .btn span:hover, .lightbox010 .c-lightbox .bt_box02 .btn span:hover {
+            color: #fff;
+            background: #91c93c url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+    .lightbox010 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox010 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox010 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox010 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox010 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox010 .c-lightbox .bt_box .tl_bt p span {
+            color: #91c93c; }
+      .lightbox010 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox010 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box04.png") right 10px center no-repeat;
+          border: 4px solid #91c93c; }
+          .lightbox010 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #91c93c url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox011 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox011 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #4ac6e3; }
+  .lightbox011 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox011 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox011 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #4ac6e3; }
+      .lightbox011 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox011 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox011 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox011 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox011 .c-lightbox .tbl ul li span {
+            color: #4ac6e3;
+            font-size: 18px; }
+    .lightbox011 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox011 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox011 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox011 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox011 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox011 .c-lightbox .bt_box .tl_bt p span {
+            color: #4ac6e3; }
+      .lightbox011 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox011 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box05.png") right 10px center no-repeat;
+          border: 4px solid #4ac6e3; }
+          .lightbox011 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #4ac6e3 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox012 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox012 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #0d8dce; }
+  .lightbox012 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox012 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox012 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #0d8dce; }
+      .lightbox012 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox012 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox012 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox012 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox012 .c-lightbox .tbl ul li span {
+            color: #0d8dce;
+            font-size: 18px; }
+    .lightbox012 .c-lightbox .btn2 {
+      display: table;
+      margin-top: 20px; }
+    .lightbox012 .c-lightbox .bt_box01, .lightbox012 .c-lightbox .bt_box02 {
+      display: table-cell;
+      width: 394px;
+      margin-top: 30px; }
+      .lightbox012 .c-lightbox .bt_box01 .tl_bt, .lightbox012 .c-lightbox .bt_box02 .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox012 .c-lightbox .bt_box01 .tl_bt p, .lightbox012 .c-lightbox .bt_box02 .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox012 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox012 .c-lightbox .bt_box02 .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox012 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox012 .c-lightbox .bt_box02 .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox012 .c-lightbox .bt_box01 .tl_bt p span, .lightbox012 .c-lightbox .bt_box02 .tl_bt p span {
+            color: #0d8dce; }
+      .lightbox012 .c-lightbox .bt_box01 .btn, .lightbox012 .c-lightbox .bt_box02 .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox012 .c-lightbox .bt_box01 .btn span, .lightbox012 .c-lightbox .bt_box02 .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 220px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box06.png") right 10px center no-repeat;
+          border: 4px solid #0d8dce; }
+          .lightbox012 .c-lightbox .bt_box01 .btn span:hover, .lightbox012 .c-lightbox .bt_box02 .btn span:hover {
+            color: #fff;
+            background: #0d8dce url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+    .lightbox012 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox012 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox012 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox012 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox012 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox012 .c-lightbox .bt_box .tl_bt p span {
+            color: #0d8dce; }
+      .lightbox012 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox012 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box06.png") right 10px center no-repeat;
+          border: 4px solid #0d8dce; }
+          .lightbox012 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #0d8dce url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox013 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox013 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #f46371; }
+  .lightbox013 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox013 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox013 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #f46371; }
+      .lightbox013 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox013 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox013 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox013 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox013 .c-lightbox .tbl ul li span {
+            color: #f46371;
+            font-size: 18px; }
+    .lightbox013 .c-lightbox .btn2 {
+      display: table;
+      margin-top: 20px; }
+    .lightbox013 .c-lightbox .bt_box01, .lightbox013 .c-lightbox .bt_box02 {
+      display: table-cell;
+      width: 394px;
+      margin-top: 30px; }
+      .lightbox013 .c-lightbox .bt_box01 .tl_bt, .lightbox013 .c-lightbox .bt_box02 .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox013 .c-lightbox .bt_box01 .tl_bt p, .lightbox013 .c-lightbox .bt_box02 .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox013 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox013 .c-lightbox .bt_box02 .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox013 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox013 .c-lightbox .bt_box02 .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox013 .c-lightbox .bt_box01 .tl_bt p span, .lightbox013 .c-lightbox .bt_box02 .tl_bt p span {
+            color: #f46371; }
+      .lightbox013 .c-lightbox .bt_box01 .btn, .lightbox013 .c-lightbox .bt_box02 .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox013 .c-lightbox .bt_box01 .btn span, .lightbox013 .c-lightbox .bt_box02 .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 220px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box07.png") right 10px center no-repeat;
+          border: 4px solid #f46371; }
+          .lightbox013 .c-lightbox .bt_box01 .btn span:hover, .lightbox013 .c-lightbox .bt_box02 .btn span:hover {
+            color: #fff;
+            background: #f46371 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+    .lightbox013 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox013 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox013 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox013 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox013 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox013 .c-lightbox .bt_box .tl_bt p span {
+            color: #f46371; }
+      .lightbox013 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox013 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box07.png") right 10px center no-repeat;
+          border: 4px solid #f46371; }
+          .lightbox013 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #f46371 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+.lightbox014 {
+  display: none;
+  text-align: justify;
+  font-size: 15px;
+  width: 900px; }
+  .lightbox014 h2 {
+    color: #fff;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background: #ff8c97; }
+  .lightbox014 .c-lightbox {
+    padding: 15px 30px; }
+    .lightbox014 .c-lightbox .tbl {
+      width: 100%; }
+      .lightbox014 .c-lightbox .tbl .tl_col {
+        color: #fff;
+        font-weight: bold;
+        margin-top: 30px;
+        padding: 3px 5px;
+        background: #ff8c97; }
+      .lightbox014 .c-lightbox .tbl .col01 {
+        width: 394px;
+        float: left; }
+      .lightbox014 .c-lightbox .tbl .col02 {
+        width: 394px;
+        float: right; }
+      .lightbox014 .c-lightbox .tbl ul {
+        margin: 5px 0 0 0;
+        padding: 0; }
+        .lightbox014 .c-lightbox .tbl ul li {
+          font-size: 18px;
+          list-style: none; }
+          .lightbox014 .c-lightbox .tbl ul li span {
+            color: #ff8c97;
+            font-size: 18px; }
+    .lightbox014 .c-lightbox .btn2 {
+      display: table;
+      margin-top: 20px; }
+    .lightbox014 .c-lightbox .bt_box01, .lightbox014 .c-lightbox .bt_box02 {
+      display: table-cell;
+      width: 394px;
+      margin-top: 30px; }
+      .lightbox014 .c-lightbox .bt_box01 .tl_bt, .lightbox014 .c-lightbox .bt_box02 .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox014 .c-lightbox .bt_box01 .tl_bt p, .lightbox014 .c-lightbox .bt_box02 .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox014 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox014 .c-lightbox .bt_box02 .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox014 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox014 .c-lightbox .bt_box02 .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox014 .c-lightbox .bt_box01 .tl_bt p span, .lightbox014 .c-lightbox .bt_box02 .tl_bt p span {
+            color: #ff8c97; }
+      .lightbox014 .c-lightbox .bt_box01 .btn, .lightbox014 .c-lightbox .bt_box02 .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox014 .c-lightbox .bt_box01 .btn span, .lightbox014 .c-lightbox .bt_box02 .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 220px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box08.png") right 10px center no-repeat;
+          border: 4px solid #ff8c97; }
+          .lightbox014 .c-lightbox .bt_box01 .btn span:hover, .lightbox014 .c-lightbox .bt_box02 .btn span:hover {
+            color: #fff;
+            background: #ff8c97 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+    .lightbox014 .c-lightbox .bt_box {
+      width: 100%;
+      margin-top: 30px; }
+      .lightbox014 .c-lightbox .bt_box .tl_bt {
+        width: 290px;
+        margin: 0 auto;
+        text-align: center; }
+        .lightbox014 .c-lightbox .bt_box .tl_bt p {
+          display: inline-block;
+          position: relative;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          vertical-align: bottom; }
+          .lightbox014 .c-lightbox .bt_box .tl_bt p:before {
+            content: '';
+            position: absolute;
+            left: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+          .lightbox014 .c-lightbox .bt_box .tl_bt p:after {
+            content: '';
+            position: absolute;
+            right: -20px;
+            bottom: 7px;
+            width: 12px;
+            height: 20px;
+            background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+          .lightbox014 .c-lightbox .bt_box .tl_bt p span {
+            color: #ff8c97; }
+      .lightbox014 .c-lightbox .bt_box .btn {
+        text-align: center;
+        width: 270px;
+        margin: 0 auto;
+        padding-top: 15px; }
+        .lightbox014 .c-lightbox .bt_box .btn span {
+          display: block;
+          text-align: center;
+          font-weight: bold;
+          font-size: 18px;
+          width: 221px;
+          padding: 8px 40px 8px 0;
+          background: #fff url("/medi-caree/common/img/job/icon_box08.png") right 10px center no-repeat;
+          border: 4px solid #ff8c97; }
+          .lightbox014 .c-lightbox .bt_box .btn span:hover {
+            color: #fff;
+            background: #ff8c97 url("/medi-caree/common/img/job/icon_box_on.png") right 10px center no-repeat; }
+
+@media only screen and (max-width: 768px) {
+  .mv {
+    min-width: 100%;
+    background: none;
+    padding: 0; }
+    .mv .wrap {
+      width: 100%;
+      padding: 0; }
+      .mv .wrap img {
+        width: 100%;
+        height: auto; }
+
+  .container {
+    min-width: 100%; }
+    .container .cont01 {
+      width: 100%;
+      background: #fff; }
+      .container .cont01 .wrap {
+        width: 100%;
+        padding: 5% 0 15% 0; }
+        .container .cont01 .wrap h3 {
+          width: 94%;
+          margin: 0 auto; }
+        .container .cont01 .wrap .content_box {
+          margin-top: 5%; }
+          .container .cont01 .wrap .content_box .left {
+            float: none; }
+          .container .cont01 .wrap .content_box .right {
+            float: none; }
+          .container .cont01 .wrap .content_box dd {
+            margin: 0; }
+          .container .cont01 .wrap .content_box .box01 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box01 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box01 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box01 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box01 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box01 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box01 .cont_box01 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box01 .cont_box01 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box01 .cont_box01 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box01 .cont_box01 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box01 .cont_box01 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat;
+                  border: 4px solid #ff6699; }
+                  .container .cont01 .wrap .content_box .box01 .cont_box01 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box01 .cont_box01 .close_box, .container .cont01 .wrap .content_box .box01 .cont_box01 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #ff6699;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box01 .cont_box01 .close_box i, .container .cont01 .wrap .content_box .box01 .cont_box01 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box02 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box02 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box02 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box02 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box02 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box02 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box02 .cont_box02 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box02 .cont_box02 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box02 .cont_box02 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box02 .cont_box02 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box02 .cont_box02 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat;
+                  border: 4px solid #ff6699; }
+                  .container .cont01 .wrap .content_box .box02 .cont_box02 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box02 .cont_box02 .close_box, .container .cont01 .wrap .content_box .box02 .cont_box02 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #ff6699;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box02 .cont_box02 .close_box i, .container .cont01 .wrap .content_box .box02 .cont_box02 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box03 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box03 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box03 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box03 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box03 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box03 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box03 .cont_box03 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box03 .cont_box03 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box03 .cont_box03 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box03 .cont_box03 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box03 .cont_box03 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat;
+                  border: 4px solid #ff6699; }
+                  .container .cont01 .wrap .content_box .box03 .cont_box03 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow01.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box03 .cont_box03 .close_box, .container .cont01 .wrap .content_box .box03 .cont_box03 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #ff6699;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box03 .cont_box03 .close_box i, .container .cont01 .wrap .content_box .box03 .cont_box03 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box04 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box04 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box04 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box04 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box04 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box04 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box04 .cont_box04 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box04 .cont_box04 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box04 .cont_box04 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box04 .cont_box04 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box04 .cont_box04 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                  border: 4px solid #b865a5; }
+                  .container .cont01 .wrap .content_box .box04 .cont_box04 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box04 .cont_box04 .close_box, .container .cont01 .wrap .content_box .box04 .cont_box04 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #b865a5;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box04 .cont_box04 .close_box i, .container .cont01 .wrap .content_box .box04 .cont_box04 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box05 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box05 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box05 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box05 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box05 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box05 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box05 .cont_box05 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box05 .cont_box05 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box05 .cont_box05 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box05 .cont_box05 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box05 .cont_box05 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                  border: 4px solid #b865a5; }
+                  .container .cont01 .wrap .content_box .box05 .cont_box05 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box05 .cont_box05 .close_box, .container .cont01 .wrap .content_box .box05 .cont_box05 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #b865a5;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box05 .cont_box05 .close_box i, .container .cont01 .wrap .content_box .box05 .cont_box05 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box06 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box06 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box06 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box06 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box06 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box06 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box06 .cont_box06 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box06 .cont_box06 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box06 .cont_box06 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box06 .cont_box06 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box06 .cont_box06 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                  border: 4px solid #b865a5; }
+                  .container .cont01 .wrap .content_box .box06 .cont_box06 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box06 .cont_box06 .close_box, .container .cont01 .wrap .content_box .box06 .cont_box06 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #b865a5;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box06 .cont_box06 .close_box i, .container .cont01 .wrap .content_box .box06 .cont_box06 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box07 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box07 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box07 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box07 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box07 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box07 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box07 .cont_box07 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box07 .cont_box07 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box07 .cont_box07 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box07 .cont_box07 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box07 .cont_box07 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                  border: 4px solid #b865a5; }
+                  .container .cont01 .wrap .content_box .box07 .cont_box07 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box07 .cont_box07 .close_box, .container .cont01 .wrap .content_box .box07 .cont_box07 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #b865a5;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box07 .cont_box07 .close_box i, .container .cont01 .wrap .content_box .box07 .cont_box07 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box08 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box08 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box08 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box08 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box08 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box08 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box08 .cont_box08 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box08 .cont_box08 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box08 .cont_box08 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box08 .cont_box08 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box08 .cont_box08 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat;
+                  border: 4px solid #b865a5; }
+                  .container .cont01 .wrap .content_box .box08 .cont_box08 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow02.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box08 .cont_box08 .close_box, .container .cont01 .wrap .content_box .box08 .cont_box08 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #b865a5;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box08 .cont_box08 .close_box i, .container .cont01 .wrap .content_box .box08 .cont_box08 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box09 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box09 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box09 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box09 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box09 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box09 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box09 .cont_box09 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box09 .cont_box09 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box09 .cont_box09 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box09 .cont_box09 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box09 .cont_box09 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow03.png") right 10px center no-repeat;
+                  border: 4px solid #f5ba0f; }
+                  .container .cont01 .wrap .content_box .box09 .cont_box09 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow03.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box09 .cont_box09 .close_box, .container .cont01 .wrap .content_box .box09 .cont_box09 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #f5ba0f;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box09 .cont_box09 .close_box i, .container .cont01 .wrap .content_box .box09 .cont_box09 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box010 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box010 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box010 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box010 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box010 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box010 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box010 .cont_box010 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box010 .cont_box010 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box010 .cont_box010 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box010 .cont_box010 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box010 .cont_box010 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow04.png") right 10px center no-repeat;
+                  border: 4px solid #91c93c; }
+                  .container .cont01 .wrap .content_box .box010 .cont_box010 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow04.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box010 .cont_box010 .close_box, .container .cont01 .wrap .content_box .box010 .cont_box010 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #91c93c;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box010 .cont_box010 .close_box i, .container .cont01 .wrap .content_box .box010 .cont_box010 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box011 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box011 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box011 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box011 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box011 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box011 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box011 .cont_box011 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box011 .cont_box011 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box011 .cont_box011 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box011 .cont_box011 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box011 .cont_box011 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow05.png") right 10px center no-repeat;
+                  border: 4px solid #4ac6e3; }
+                  .container .cont01 .wrap .content_box .box011 .cont_box011 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow05.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box011 .cont_box011 .close_box, .container .cont01 .wrap .content_box .box011 .cont_box011 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #4ac6e3;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box011 .cont_box011 .close_box i, .container .cont01 .wrap .content_box .box011 .cont_box011 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box012 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box012 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box012 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box012 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box012 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box012 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box012 .cont_box012 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box012 .cont_box012 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box012 .cont_box012 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box012 .cont_box012 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box012 .cont_box012 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow06.png") right 10px center no-repeat;
+                  border: 4px solid #0d8dce; }
+                  .container .cont01 .wrap .content_box .box012 .cont_box012 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow06.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box012 .cont_box012 .close_box, .container .cont01 .wrap .content_box .box012 .cont_box012 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #0d8dce;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box012 .cont_box012 .close_box i, .container .cont01 .wrap .content_box .box012 .cont_box012 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box013 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box013 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box013 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box013 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box013 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box013 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box013 .cont_box013 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box013 .cont_box013 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box013 .cont_box013 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box013 .cont_box013 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box013 .cont_box013 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow07.png") right 10px center no-repeat;
+                  border: 4px solid #f46371; }
+                  .container .cont01 .wrap .content_box .box013 .cont_box013 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow07.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box013 .cont_box013 .close_box, .container .cont01 .wrap .content_box .box013 .cont_box013 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #f46371;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box013 .cont_box013 .close_box i, .container .cont01 .wrap .content_box .box013 .cont_box013 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+          .container .cont01 .wrap .content_box .box014 {
+            position: relative;
+            width: 100%;
+            margin-bottom: 3%; }
+            .container .cont01 .wrap .content_box .box014 dt {
+              font-size: 130%;
+              font-weight: bold;
+              width: 100%;
+              height: auto;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box014 dt img {
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box014 dt p {
+                display: none; }
+            .container .cont01 .wrap .content_box .box014 .open img {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box014 .open .btn {
+              display: block !important; }
+            .container .cont01 .wrap .content_box .box014 .cont_box014 {
+              position: relative;
+              margin: 0;
+              padding: 0;
+              background: none; }
+              .container .cont01 .wrap .content_box .box014 .cont_box014 img {
+                display: none;
+                width: 100%;
+                height: auto; }
+              .container .cont01 .wrap .content_box .box014 .cont_box014 .shape {
+                display: none; }
+              .container .cont01 .wrap .content_box .box014 .cont_box014 .btn {
+                display: none;
+                position: absolute;
+                bottom: 25%;
+                text-align: center;
+                width: 100%; }
+                .container .cont01 .wrap .content_box .box014 .cont_box014 .btn span {
+                  display: block;
+                  font-size: 13px;
+                  text-align: right;
+                  font-weight: bold;
+                  width: 205px;
+                  padding: 8px 40px 8px 0;
+                  margin: 0 auto;
+                  background: #fff url("/medi-caree/common/img/job/arrow08.png") right 10px center no-repeat;
+                  border: 4px solid #ff8c97; }
+                  .container .cont01 .wrap .content_box .box014 .cont_box014 .btn span:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/job/arrow08.png") right 10px center no-repeat; }
+              .container .cont01 .wrap .content_box .box014 .cont_box014 .close_box, .container .cont01 .wrap .content_box .box014 .cont_box014 .open_box {
+                color: #fff;
+                font-size: 120%;
+                font-weight: bold;
+                text-align: center;
+                background: #ff8c97;
+                padding: 2% 0;
+                cursor: pointer; }
+                .container .cont01 .wrap .content_box .box014 .cont_box014 .close_box i, .container .cont01 .wrap .content_box .box014 .cont_box014 .open_box i {
+                  font-size: 200%;
+                  margin-right: 2%;
+                  vertical-align: bottom; }
+
+  .lightbox01 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox01 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #ff6699; }
+    .lightbox01 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox01 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox01 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox01 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #ff6699; }
+        .lightbox01 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox01 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox01 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox01 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox01 .c-lightbox .tbl ul li span {
+              color: #ff6699;
+              font-size: 80%; }
+      .lightbox01 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox01 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox01 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox01 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox01 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox01 .c-lightbox .bt_box .tl_bt p span {
+              color: #ff6699; }
+        .lightbox01 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox01 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat;
+            border: 4px solid #ff6699; }
+            .lightbox01 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat; }
+
+  .lightbox02 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox02 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #ff6699; }
+    .lightbox02 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox02 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox02 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox02 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #ff6699; }
+        .lightbox02 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox02 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox02 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox02 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox02 .c-lightbox .tbl ul li span {
+              color: #ff6699;
+              font-size: 80%; }
+      .lightbox02 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox02 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox02 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox02 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox02 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox02 .c-lightbox .bt_box .tl_bt p span {
+              color: #ff6699; }
+        .lightbox02 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox02 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat;
+            border: 4px solid #ff6699; }
+            .lightbox02 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat; }
+
+  .lightbox03 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox03 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #ff6699; }
+    .lightbox03 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox03 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox03 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox03 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #ff6699; }
+        .lightbox03 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox03 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox03 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox03 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox03 .c-lightbox .tbl ul li span {
+              color: #ff6699;
+              font-size: 80%; }
+      .lightbox03 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox03 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox03 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox03 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox03 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox03 .c-lightbox .bt_box .tl_bt p span {
+              color: #ff6699; }
+        .lightbox03 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox03 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat;
+            border: 4px solid #ff6699; }
+            .lightbox03 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box01.png") right 10px center no-repeat; }
+
+  .lightbox04 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox04 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #b865a5; }
+    .lightbox04 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox04 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox04 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox04 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #b865a5; }
+        .lightbox04 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox04 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox04 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox04 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox04 .c-lightbox .tbl ul li span {
+              color: #b865a5;
+              font-size: 80%; }
+      .lightbox04 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox04 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox04 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox04 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox04 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox04 .c-lightbox .bt_box .tl_bt p span {
+              color: #b865a5; }
+        .lightbox04 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox04 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+            border: 4px solid #b865a5; }
+            .lightbox04 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat; }
+
+  .lightbox05 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox05 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #b865a5; }
+    .lightbox05 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox05 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox05 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox05 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #b865a5; }
+        .lightbox05 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox05 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox05 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox05 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox05 .c-lightbox .tbl ul li span {
+              color: #b865a5;
+              font-size: 80%; }
+      .lightbox05 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox05 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox05 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox05 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox05 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox05 .c-lightbox .bt_box .tl_bt p span {
+              color: #b865a5; }
+        .lightbox05 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox05 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+            border: 4px solid #b865a5; }
+            .lightbox05 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat; }
+
+  .lightbox06 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox06 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #b865a5; }
+    .lightbox06 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox06 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox06 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox06 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #b865a5; }
+        .lightbox06 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox06 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox06 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox06 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox06 .c-lightbox .tbl ul li span {
+              color: #b865a5;
+              font-size: 80%; }
+      .lightbox06 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox06 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox06 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox06 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox06 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox06 .c-lightbox .bt_box .tl_bt p span {
+              color: #b865a5; }
+        .lightbox06 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox06 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+            border: 4px solid #b865a5; }
+            .lightbox06 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat; }
+
+  .lightbox07 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox07 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #b865a5; }
+    .lightbox07 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox07 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox07 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox07 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #b865a5; }
+        .lightbox07 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox07 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox07 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox07 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox07 .c-lightbox .tbl ul li span {
+              color: #b865a5;
+              font-size: 80%; }
+      .lightbox07 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox07 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox07 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox07 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox07 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox07 .c-lightbox .bt_box .tl_bt p span {
+              color: #b865a5; }
+        .lightbox07 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox07 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+            border: 4px solid #b865a5; }
+            .lightbox07 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat; }
+
+  .lightbox08 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox08 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #b865a5; }
+    .lightbox08 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox08 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox08 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox08 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #b865a5; }
+        .lightbox08 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox08 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox08 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox08 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox08 .c-lightbox .tbl ul li span {
+              color: #b865a5;
+              font-size: 80%; }
+      .lightbox08 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox08 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox08 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox08 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox08 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox08 .c-lightbox .bt_box .tl_bt p span {
+              color: #b865a5; }
+        .lightbox08 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox08 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat;
+            border: 4px solid #b865a5; }
+            .lightbox08 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box02.png") right 10px center no-repeat; }
+
+  .lightbox09 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox09 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #f5ba0f; }
+    .lightbox09 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox09 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox09 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox09 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #f5ba0f; }
+        .lightbox09 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox09 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox09 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox09 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox09 .c-lightbox .tbl ul li span {
+              color: #f5ba0f;
+              font-size: 80%; }
+      .lightbox09 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox09 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox09 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox09 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox09 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox09 .c-lightbox .bt_box .tl_bt p span {
+              color: #f5ba0f; }
+        .lightbox09 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox09 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box03.png") right 10px center no-repeat;
+            border: 4px solid #f5ba0f; }
+            .lightbox09 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box03.png") right 10px center no-repeat; }
+
+  .lightbox010 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox010 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #91c93c; }
+    .lightbox010 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox010 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox010 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox010 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #91c93c; }
+        .lightbox010 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox010 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox010 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox010 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox010 .c-lightbox .tbl ul li span {
+              color: #91c93c;
+              font-size: 80%; }
+      .lightbox010 .c-lightbox .btn2 {
+        display: block;
+        margin-top: 0; }
+      .lightbox010 .c-lightbox .bt_box01, .lightbox010 .c-lightbox .bt_box02 {
+        display: list-item;
+        list-style: none;
+        width: 100%;
+        margin-top: 4%; }
+        .lightbox010 .c-lightbox .bt_box01 .tl_bt, .lightbox010 .c-lightbox .bt_box02 .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox010 .c-lightbox .bt_box01 .tl_bt p, .lightbox010 .c-lightbox .bt_box02 .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox010 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox010 .c-lightbox .bt_box02 .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox010 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox010 .c-lightbox .bt_box02 .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox010 .c-lightbox .bt_box01 .tl_bt p span, .lightbox010 .c-lightbox .bt_box02 .tl_bt p span {
+              color: #91c93c; }
+        .lightbox010 .c-lightbox .bt_box01 .btn, .lightbox010 .c-lightbox .bt_box02 .btn {
+          text-align: center;
+          width: 70%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox010 .c-lightbox .bt_box01 .btn span, .lightbox010 .c-lightbox .bt_box02 .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+            width: 85%;
+            padding: 2% 3% 2% 0;
+            margin-left: 4%;
+            background: #fff url("/medi-caree/common/img/job/icon_box04.png") right 10px center no-repeat;
+            border: 4px solid #91c93c; }
+            .lightbox010 .c-lightbox .bt_box01 .btn span:hover, .lightbox010 .c-lightbox .bt_box02 .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box04.png") right 10px center no-repeat; }
+      .lightbox010 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox010 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox010 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox010 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox010 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox010 .c-lightbox .bt_box .tl_bt p span {
+              color: #91c93c; }
+        .lightbox010 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox010 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box04.png") right 10px center no-repeat;
+            border: 4px solid #91c93c; }
+            .lightbox010 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box04.png") right 10px center no-repeat; }
+
+  .lightbox011 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox011 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #4ac6e3; }
+    .lightbox011 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox011 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox011 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox011 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #4ac6e3; }
+        .lightbox011 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox011 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox011 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox011 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox011 .c-lightbox .tbl ul li span {
+              color: #4ac6e3;
+              font-size: 80%; }
+      .lightbox011 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox011 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox011 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox011 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox011 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox011 .c-lightbox .bt_box .tl_bt p span {
+              color: #4ac6e3; }
+        .lightbox011 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox011 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box05.png") right 10px center no-repeat;
+            border: 4px solid #4ac6e3; }
+            .lightbox011 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box05.png") right 10px center no-repeat; }
+
+  .lightbox012 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox012 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #0d8dce; }
+    .lightbox012 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox012 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox012 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox012 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #0d8dce; }
+        .lightbox012 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox012 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox012 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox012 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox012 .c-lightbox .tbl ul li span {
+              color: #0d8dce;
+              font-size: 80%; }
+      .lightbox012 .c-lightbox .btn2 {
+        display: block;
+        margin-top: 0; }
+      .lightbox012 .c-lightbox .bt_box01, .lightbox012 .c-lightbox .bt_box02 {
+        display: list-item;
+        list-style: none;
+        width: 100%;
+        margin-top: 4%; }
+        .lightbox012 .c-lightbox .bt_box01 .tl_bt, .lightbox012 .c-lightbox .bt_box02 .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox012 .c-lightbox .bt_box01 .tl_bt p, .lightbox012 .c-lightbox .bt_box02 .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox012 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox012 .c-lightbox .bt_box02 .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox012 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox012 .c-lightbox .bt_box02 .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox012 .c-lightbox .bt_box01 .tl_bt p span, .lightbox012 .c-lightbox .bt_box02 .tl_bt p span {
+              color: #0d8dce; }
+        .lightbox012 .c-lightbox .bt_box01 .btn, .lightbox012 .c-lightbox .bt_box02 .btn {
+          text-align: center;
+          width: 70%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox012 .c-lightbox .bt_box01 .btn span, .lightbox012 .c-lightbox .bt_box02 .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+            width: 85%;
+            padding: 2% 3% 2% 0;
+            margin-left: 4%;
+            background: #fff url("/medi-caree/common/img/job/icon_box06.png") right 10px center no-repeat;
+            border: 4px solid #0d8dce; }
+            .lightbox012 .c-lightbox .bt_box01 .btn span:hover, .lightbox012 .c-lightbox .bt_box02 .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box06.png") right 10px center no-repeat; }
+      .lightbox012 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox012 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox012 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox012 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox012 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox012 .c-lightbox .bt_box .tl_bt p span {
+              color: #0d8dce; }
+        .lightbox012 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox012 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box06.png") right 10px center no-repeat;
+            border: 4px solid #0d8dce; }
+            .lightbox012 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box06.png") right 10px center no-repeat; }
+
+  .lightbox013 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox013 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #f46371; }
+    .lightbox013 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox013 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox013 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox013 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #f46371; }
+        .lightbox013 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox013 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox013 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox013 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox013 .c-lightbox .tbl ul li span {
+              color: #f46371;
+              font-size: 80%; }
+      .lightbox013 .c-lightbox .btn2 {
+        display: block;
+        margin-top: 0; }
+      .lightbox013 .c-lightbox .bt_box01, .lightbox013 .c-lightbox .bt_box02 {
+        display: list-item;
+        list-style: none;
+        width: 100%;
+        margin-top: 4%; }
+        .lightbox013 .c-lightbox .bt_box01 .tl_bt, .lightbox013 .c-lightbox .bt_box02 .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox013 .c-lightbox .bt_box01 .tl_bt p, .lightbox013 .c-lightbox .bt_box02 .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox013 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox013 .c-lightbox .bt_box02 .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox013 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox013 .c-lightbox .bt_box02 .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox013 .c-lightbox .bt_box01 .tl_bt p span, .lightbox013 .c-lightbox .bt_box02 .tl_bt p span {
+              color: #f46371; }
+        .lightbox013 .c-lightbox .bt_box01 .btn, .lightbox013 .c-lightbox .bt_box02 .btn {
+          text-align: center;
+          width: 70%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox013 .c-lightbox .bt_box01 .btn span, .lightbox013 .c-lightbox .bt_box02 .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+            width: 85%;
+            padding: 2% 3% 2% 0;
+            margin-left: 4%;
+            background: #fff url("/medi-caree/common/img/job/icon_box07.png") right 10px center no-repeat;
+            border: 4px solid #f46371; }
+            .lightbox013 .c-lightbox .bt_box01 .btn span:hover, .lightbox013 .c-lightbox .bt_box02 .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box07.png") right 10px center no-repeat; }
+      .lightbox013 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox013 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox013 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox013 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox013 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox013 .c-lightbox .bt_box .tl_bt p span {
+              color: #f46371; }
+        .lightbox013 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox013 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box07.png") right 10px center no-repeat;
+            border: 4px solid #f46371; }
+            .lightbox013 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box07.png") right 10px center no-repeat; }
+
+  .lightbox014 {
+    display: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto; }
+    .lightbox014 h2 {
+      font-size: 110%;
+      color: #fff;
+      padding: 0 0 0 4%;
+      margin: 0;
+      background: #ff8c97; }
+    .lightbox014 .c-lightbox {
+      padding: 2% 3%; }
+      .lightbox014 .c-lightbox p {
+        font-size: 80%;
+        line-height: 1.7em; }
+      .lightbox014 .c-lightbox .tbl {
+        width: 100%; }
+        .lightbox014 .c-lightbox .tbl .tl_col {
+          color: #fff;
+          font-size: 80%;
+          font-weight: bold;
+          margin-top: 3%;
+          padding: 3px 5px;
+          background: #ff8c97; }
+        .lightbox014 .c-lightbox .tbl .col01 {
+          width: 100%;
+          float: none; }
+        .lightbox014 .c-lightbox .tbl .col02 {
+          width: 100%;
+          float: none; }
+        .lightbox014 .c-lightbox .tbl ul {
+          margin: 5px 0 0 0;
+          padding: 0; }
+          .lightbox014 .c-lightbox .tbl ul li {
+            font-size: 80%;
+            list-style: none;
+            line-height: 1.6em; }
+            .lightbox014 .c-lightbox .tbl ul li span {
+              color: #ff8c97;
+              font-size: 80%; }
+      .lightbox014 .c-lightbox .btn2 {
+        display: block;
+        margin-top: 0; }
+      .lightbox014 .c-lightbox .bt_box01, .lightbox014 .c-lightbox .bt_box02 {
+        display: list-item;
+        list-style: none;
+        width: 100%;
+        margin-top: 4%; }
+        .lightbox014 .c-lightbox .bt_box01 .tl_bt, .lightbox014 .c-lightbox .bt_box02 .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox014 .c-lightbox .bt_box01 .tl_bt p, .lightbox014 .c-lightbox .bt_box02 .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox014 .c-lightbox .bt_box01 .tl_bt p:before, .lightbox014 .c-lightbox .bt_box02 .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox014 .c-lightbox .bt_box01 .tl_bt p:after, .lightbox014 .c-lightbox .bt_box02 .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox014 .c-lightbox .bt_box01 .tl_bt p span, .lightbox014 .c-lightbox .bt_box02 .tl_bt p span {
+              color: #ff8c97; }
+        .lightbox014 .c-lightbox .bt_box01 .btn, .lightbox014 .c-lightbox .bt_box02 .btn {
+          text-align: center;
+          width: 70%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox014 .c-lightbox .bt_box01 .btn span, .lightbox014 .c-lightbox .bt_box02 .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+            width: 85%;
+            padding: 2% 3% 2% 0;
+            margin-left: 4%;
+            background: #fff url("/medi-caree/common/img/job/icon_box08.png") right 10px center no-repeat;
+            border: 4px solid #ff8c97; }
+            .lightbox014 .c-lightbox .bt_box01 .btn span:hover, .lightbox014 .c-lightbox .bt_box02 .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box08.png") right 10px center no-repeat; }
+      .lightbox014 .c-lightbox .bt_box {
+        width: 100%;
+        margin-top: 30px; }
+        .lightbox014 .c-lightbox .bt_box .tl_bt {
+          width: 65%;
+          margin: 0 auto;
+          text-align: center; }
+          .lightbox014 .c-lightbox .bt_box .tl_bt p {
+            display: inline-block;
+            position: relative;
+            font-size: 110%;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: bottom; }
+            .lightbox014 .c-lightbox .bt_box .tl_bt p:before {
+              content: '';
+              position: absolute;
+              left: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/before.png") no-repeat; }
+            .lightbox014 .c-lightbox .bt_box .tl_bt p:after {
+              content: '';
+              position: absolute;
+              right: -20px;
+              bottom: 7px;
+              width: 12px;
+              height: 20px;
+              background: url("/medi-caree/common/img/job/after.png") no-repeat; }
+            .lightbox014 .c-lightbox .bt_box .tl_bt p span {
+              color: #ff8c97; }
+        .lightbox014 .c-lightbox .bt_box .btn {
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+          padding-top: 15px; }
+          .lightbox014 .c-lightbox .bt_box .btn span {
+            display: block;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            width: 80%;
+            padding: 2% 3% 2% 0;
+            margin: 0 auto;
+            background: #fff url("/medi-caree/common/img/job/icon_box08.png") right 10px center no-repeat;
+            border: 4px solid #ff8c97; }
+            .lightbox014 .c-lightbox .bt_box .btn span:hover {
+              color: #444;
+              background: #fff url("/medi-caree/common/img/job/icon_box08.png") right 10px center no-repeat; } }
+
+/*# sourceMappingURL=job.css.map */

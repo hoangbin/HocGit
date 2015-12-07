@@ -1,0 +1,750 @@
+.mv {
+  background: url("/medi-caree/common/img/support/mv.png") no-repeat center; }
+
+.container {
+  font-size: 18px;
+  line-height: 1.8;
+  background: url("/medi-caree/common/img/support/bg.png"); }
+  .container .support_h04 {
+    position: relative;
+    font-size: 200%;
+    text-align: center;
+    line-height: 1.8em; }
+    .container .support_h04:before {
+      background-color: #ff943c;
+      content: "";
+      display: block;
+      width: 100px;
+      height: 4px;
+      position: absolute;
+      left: 50%;
+      top: -30px;
+      margin-left: -50px; }
+  .container .wrap {
+    padding: 30px 0 20px 0; }
+    .container .wrap h3 {
+      text-align: center;
+      font-size: 157.14286%;
+      line-height: 1.8; }
+    .container .wrap .cont01 {
+      margin-top: 120px; }
+      .container .wrap .cont01 .c-cont01 {
+        position: relative;
+        width: 900px;
+        margin: 0 auto;
+        margin-top: 70px;
+        padding: 30px 30px 50px 30px;
+        border: 1px solid #ff943c;
+        background: #fff; }
+        .container .wrap .cont01 .c-cont01 .tl01 {
+          position: absolute;
+          top: -53px;
+          left: -20px;
+          color: #fff;
+          text-align: center;
+          font-size: 121.42857%;
+          width: 600px;
+          padding: 10px 0;
+          background: #fbb41a; }
+        .container .wrap .cont01 .c-cont01 .left {
+          width: 320px;
+          float: left;
+          margin-top: 30px; }
+        .container .wrap .cont01 .c-cont01 .right {
+          width: 530px;
+          float: right;
+          margin-top: 30px;
+          font-size: 13px; }
+          .container .wrap .cont01 .c-cont01 .right table {
+            width: 260px; }
+            .container .wrap .cont01 .c-cont01 .right table th {
+              color: #fff;
+              line-height: 1.2em;
+              width: 25px;
+              background: #fbb41a;
+              vertical-align: middle;
+              border-top: 1px solid #fbb41a;
+              border-bottom: 1px solid #fbb41a; }
+            .container .wrap .cont01 .c-cont01 .right table td {
+              border-top: 1px solid #ccc;
+              height: 30px;
+              vertical-align: middle;
+              padding-left: 5px; }
+              .container .wrap .cont01 .c-cont01 .right table td.last {
+                border-bottom: 1px solid #ccc; }
+              .container .wrap .cont01 .c-cont01 .right table td.pink {
+                background: #ffe5e5; }
+              .container .wrap .cont01 .c-cont01 .right table td.gray {
+                background: #f1f1f1; }
+              .container .wrap .cont01 .c-cont01 .right table td.tright {
+                text-align: right;
+                padding-right: 3px; }
+              .container .wrap .cont01 .c-cont01 .right table td span {
+                font-size: 11px; }
+            .container .wrap .cont01 .c-cont01 .right table.tbl01 {
+              float: left; }
+            .container .wrap .cont01 .c-cont01 .right table.tbl02 {
+              float: right; }
+          .container .wrap .cont01 .c-cont01 .right .text {
+            display: inline-block;
+            font-size: 107.14286%;
+            font-weight: bold;
+            margin-top: 30px;
+            background: url("/medi-caree/common/img/support/bg_txt_cont01.png") left bottom repeat-x; }
+            .container .wrap .cont01 .c-cont01 .right .text span {
+              font-size: 140%; }
+          .container .wrap .cont01 .c-cont01 .right .image {
+            position: absolute;
+            right: 40px;
+            bottom: 40px; }
+    .container .wrap .cont02 {
+      margin-top: 120px; }
+      .container .wrap .cont02 .c-cont02 .left {
+        float: left; }
+      .container .wrap .cont02 .c-cont02 .right {
+        float: right; }
+      .container .wrap .cont02 .c-cont02 .block {
+        width: 468px;
+        border: 1px solid #ff943c; }
+        .container .wrap .cont02 .c-cont02 .block .btl {
+          color: #fff;
+          text-align: center;
+          font-weight: bold;
+          font-size: 164.28571%;
+          background: #ff943c;
+          padding: .5em 0; }
+        .container .wrap .cont02 .c-cont02 .block .c-block {
+          padding: 30px;
+          background: #fff; }
+          .container .wrap .cont02 .c-cont02 .block .c-block .read {
+            font-size: 100%;
+            font-weight: bold; }
+          .container .wrap .cont02 .c-cont02 .block .c-block .gray {
+            font-size: 100%;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+            padding: 1px;
+            background: #e2e2e2;
+            border-radius: 10px;
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px; }
+          .container .wrap .cont02 .c-cont02 .block .c-block ul {
+            margin: 20px 0 40px 0;
+            padding: 0;
+            width: 100%;
+            height: 70px; }
+            .container .wrap .cont02 .c-cont02 .block .c-block ul li {
+              display: inline-block;
+              font-size: 100%;
+              list-style: none; }
+              .container .wrap .cont02 .c-cont02 .block .c-block ul li:first-child, .container .wrap .cont02 .c-cont02 .block .c-block ul li:nth-child(2n+1) {
+                margin-right: 15px; }
+              .container .wrap .cont02 .c-cont02 .block .c-block ul li img {
+                vertical-align: middle;
+                margin-right: 5px;
+                width: 20px;
+                height: 20px; }
+            .container .wrap .cont02 .c-cont02 .block .c-block ul .list01 {
+              color: #ff9999;
+              margin-bottom: 15px; }
+            .container .wrap .cont02 .c-cont02 .block .c-block ul .list02 {
+              color: #a3cc52;
+              margin-bottom: 15px; }
+            .container .wrap .cont02 .c-cont02 .block .c-block ul .list03 {
+              color: #5cb8e5;
+              margin-bottom: 15px; }
+          .container .wrap .cont02 .c-cont02 .block .c-block .btn {
+            font-size: 128.57143%;
+            width: 250px;
+            margin: 20px auto; }
+            .container .wrap .cont02 .c-cont02 .block .c-block .btn .ov {
+              display: inline-block;
+              text-align: center;
+              font-weight: bold;
+              line-height: 42px;
+              width: 250px;
+              height: 42px;
+              background: #fff;
+              background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+              background-color: #fff;
+              border: 3px solid #ff943c; }
+              .container .wrap .cont02 .c-cont02 .block .c-block .btn .ov img {
+                vertical-align: middle;
+                margin-left: 20px; }
+              .container .wrap .cont02 .c-cont02 .block .c-block .btn .ov:hover {
+                color: #fff;
+                background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+                background-color: #ff943c; }
+    .container .wrap .cont03 {
+      margin-top: 100px; }
+      .container .wrap .cont03 .c-cont03 {
+        margin-top: 50px; }
+        .container .wrap .cont03 .c-cont03 .block01 {
+          width: 290px;
+          float: left;
+          margin-right: 50px;
+          border: 1px solid #5cb8e5;
+          background: #fff; }
+          .container .wrap .cont03 .c-cont03 .block01 dt {
+            color: #fff;
+            font-size: 114.28571%;
+            font-weight: bold;
+            padding: 10px 0;
+            text-align: center;
+            background: #5cb8e5; }
+          .container .wrap .cont03 .c-cont03 .block01 dd {
+            margin: 0;
+            padding: 25px; }
+            .container .wrap .cont03 .c-cont03 .block01 dd .read {
+              font-size: 100%;
+              font-weight: bold;
+              height: 75px; }
+            .container .wrap .cont03 .c-cont03 .block01 dd .yellow {
+              text-align: center;
+              margin-top: 25px; }
+              .container .wrap .cont03 .c-cont03 .block01 dd .yellow span {
+                display: block;
+                font-size: 107.14286%;
+                color: #fff;
+                width: 116px;
+                margin: 0 auto;
+                background: #fbb41a;
+                border-radius: 10px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px; }
+            .container .wrap .cont03 .c-cont03 .block01 dd .btn {
+              width: 220px;
+              margin: 40px auto 0 auto; }
+              .container .wrap .cont03 .c-cont03 .block01 dd .btn .ov {
+                display: inline-block;
+                text-align: center;
+                font-size: 128.57143%;
+                font-weight: bold;
+                line-height: 42px;
+                width: 220px;
+                height: 42px;
+                background: #fff;
+                background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                background-color: #fff;
+                border: 3px solid #ff943c; }
+                .container .wrap .cont03 .c-cont03 .block01 dd .btn .ov img {
+                  vertical-align: middle;
+                  margin-left: 20px; }
+                .container .wrap .cont03 .c-cont03 .block01 dd .btn .ov:hover {
+                  color: #fff;
+                  background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+                  background-color: #ff943c; }
+        .container .wrap .cont03 .c-cont03 .block02 {
+          width: 290px;
+          float: left;
+          margin-right: 50px;
+          border: 1px solid #ff9999;
+          background: #fff; }
+          .container .wrap .cont03 .c-cont03 .block02 dt {
+            color: #fff;
+            font-size: 114.28571%;
+            font-weight: bold;
+            padding: 10px 0;
+            text-align: center;
+            background: #ff9999; }
+          .container .wrap .cont03 .c-cont03 .block02 dd {
+            margin: 0;
+            padding: 25px; }
+            .container .wrap .cont03 .c-cont03 .block02 dd .read {
+              font-size: 100%;
+              font-weight: bold;
+              height: 75px; }
+            .container .wrap .cont03 .c-cont03 .block02 dd .yellow {
+              text-align: center;
+              margin-top: 25px; }
+              .container .wrap .cont03 .c-cont03 .block02 dd .yellow span {
+                display: block;
+                font-size: 107.14286%;
+                color: #fff;
+                width: 116px;
+                margin: 0 auto;
+                background: #fbb41a;
+                border-radius: 10px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px; }
+            .container .wrap .cont03 .c-cont03 .block02 dd .btn {
+              width: 220px;
+              margin: 40px auto 0 auto; }
+              .container .wrap .cont03 .c-cont03 .block02 dd .btn .ov {
+                display: inline-block;
+                text-align: center;
+                font-size: 128.57143%;
+                font-weight: bold;
+                line-height: 42px;
+                width: 220px;
+                height: 42px;
+                background: #fff;
+                background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                background-color: #fff;
+                border: 3px solid #ff943c; }
+                .container .wrap .cont03 .c-cont03 .block02 dd .btn .ov img {
+                  vertical-align: middle;
+                  margin-left: 20px; }
+                .container .wrap .cont03 .c-cont03 .block02 dd .btn .ov:hover {
+                  color: #fff;
+                  background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+                  background-color: #ff943c; }
+        .container .wrap .cont03 .c-cont03 .block03 {
+          width: 290px;
+          float: left;
+          border: 1px solid #a3cc52;
+          background: #fff; }
+          .container .wrap .cont03 .c-cont03 .block03 dt {
+            color: #fff;
+            font-size: 114.28571%;
+            font-weight: bold;
+            padding: 10px 0;
+            text-align: center;
+            background: #a3cc52; }
+          .container .wrap .cont03 .c-cont03 .block03 dd {
+            margin: 0;
+            padding: 25px; }
+            .container .wrap .cont03 .c-cont03 .block03 dd .read {
+              font-size: 100%;
+              font-weight: bold;
+              height: 75px; }
+            .container .wrap .cont03 .c-cont03 .block03 dd .yellow {
+              text-align: center;
+              margin-top: 25px; }
+              .container .wrap .cont03 .c-cont03 .block03 dd .yellow span {
+                display: block;
+                font-size: 107.14286%;
+                color: #fff;
+                width: 116px;
+                margin: 0 auto;
+                background: #fbb41a;
+                border-radius: 10px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px; }
+            .container .wrap .cont03 .c-cont03 .block03 dd .btn {
+              width: 220px;
+              margin: 40px auto 0 auto; }
+              .container .wrap .cont03 .c-cont03 .block03 dd .btn .ov {
+                display: inline-block;
+                text-align: center;
+                font-size: 128.57143%;
+                font-weight: bold;
+                line-height: 42px;
+                width: 220px;
+                height: 42px;
+                background: #fff;
+                background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                background-color: #fff;
+                border: 3px solid #ff943c; }
+                .container .wrap .cont03 .c-cont03 .block03 dd .btn .ov img {
+                  vertical-align: middle;
+                  margin-left: 20px; }
+                .container .wrap .cont03 .c-cont03 .block03 dd .btn .ov:hover {
+                  color: #fff;
+                  background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+                  background-color: #ff943c; }
+    .container .wrap .bonus {
+      margin: 120px 0 100px 0;
+      text-align: center; }
+      .container .wrap .bonus h4 {
+        font-size: 214.28571%;
+        text-align: center;
+        line-height: 1.8em; }
+        .container .wrap .bonus h4 span {
+          color: #ff943c; }
+      .container .wrap .bonus .read {
+        font-size: 100%;
+        line-height: 1.8;
+        margin-bottom: 50px;
+        text-align: justify; }
+      .container .wrap .bonus .phone {
+        display: inline-block;
+        font-size: 178.57143%; }
+        .container .wrap .bonus .phone img {
+          vertical-align: middle; }
+      .container .wrap .bonus .mail {
+        display: inline-block;
+        font-size: 114.28571%;
+        margin-left: 60px; }
+        .container .wrap .bonus .mail span {
+          display: inline-block;
+          text-align: center;
+          width: 250px;
+          padding: 8px 0;
+          background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+          background-color: #fff;
+          border: 3px solid #ff943c; }
+          .container .wrap .bonus .mail span:hover {
+            color: #fff;
+            background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+            background-color: #ff943c; }
+            .container .wrap .bonus .mail span:hover i {
+              color: #fff; }
+          .container .wrap .bonus .mail span i {
+            font-size: 25px;
+            vertical-align: middle;
+            color: #ff943c; }
+
+@media only screen and (max-width: 768px) {
+  .mv {
+    min-width: 100%;
+    background: none;
+    padding: 0; }
+    .mv .wrap {
+      width: 100%;
+      padding: 0; }
+      .mv .wrap img {
+        width: 100%;
+        height: auto; }
+
+  .container {
+    font-size: 114.28571%; }
+    .container .wrap {
+      width: 94%;
+      margin: 0 auto;
+      padding: 4% 3% 10% 3%; }
+      .container .wrap h3 img {
+        width: 100%;
+        height: auto; }
+      .container .wrap .cont01 {
+        margin-top: 10%; }
+        .container .wrap .cont01 h4 {
+          margin-bottom: 15%; }
+          .container .wrap .cont01 h4 img {
+            width: 100%;
+            height: auto; }
+          .container .wrap .cont01 h4:before {
+            display: none; }
+        .container .wrap .cont01 .c-cont01 {
+          position: relative;
+          width: 90%;
+          margin: 0 auto;
+          margin-top: 7%;
+          padding: 3% 2% 5% 2%;
+          border: 1px solid #ff943c;
+          background: #fff; }
+          .container .wrap .cont01 .c-cont01 .tl01 {
+            top: -53px;
+            left: -20px;
+            color: #fff;
+            text-align: center;
+            font-size: 18px;
+            width: 90%;
+            padding: 0;
+            background: none; }
+            .container .wrap .cont01 .c-cont01 .tl01 img {
+              width: 100%;
+              height: auto; }
+          .container .wrap .cont01 .c-cont01 .left {
+            width: 100%;
+            float: none;
+            margin-top: 8%; }
+            .container .wrap .cont01 .c-cont01 .left img {
+              width: 100%;
+              height: auto; }
+          .container .wrap .cont01 .c-cont01 .right {
+            width: 100%;
+            float: none;
+            margin-top: 5%;
+            font-size: 80%; }
+            .container .wrap .cont01 .c-cont01 .right table {
+              width: 96%;
+              margin: 0 auto;
+              margin-bottom: 4%; }
+              .container .wrap .cont01 .c-cont01 .right table th {
+                color: #fff;
+                line-height: 1.2em;
+                width: 25px;
+                background: #fbb41a;
+                vertical-align: middle;
+                border-top: 1px solid #fbb41a;
+                border-bottom: 1px solid #fbb41a; }
+              .container .wrap .cont01 .c-cont01 .right table td {
+                border-top: 1px solid #ccc;
+                height: 30px;
+                vertical-align: middle;
+                padding-left: 5px; }
+                .container .wrap .cont01 .c-cont01 .right table td.last {
+                  border-bottom: 1px solid #ccc; }
+                .container .wrap .cont01 .c-cont01 .right table td.pink {
+                  background: #ffe5e5; }
+                .container .wrap .cont01 .c-cont01 .right table td.gray {
+                  background: #f1f1f1; }
+                .container .wrap .cont01 .c-cont01 .right table td.tright {
+                  text-align: right;
+                  padding-right: 3px; }
+                .container .wrap .cont01 .c-cont01 .right table td.none {
+                  display: none; }
+                .container .wrap .cont01 .c-cont01 .right table td span {
+                  font-size: 11px; }
+              .container .wrap .cont01 .c-cont01 .right table.tbl01 {
+                float: none; }
+              .container .wrap .cont01 .c-cont01 .right table.tbl02 {
+                float: none; }
+            .container .wrap .cont01 .c-cont01 .right .text {
+              display: none; }
+            .container .wrap .cont01 .c-cont01 .right .image {
+              position: relative;
+              right: 0px;
+              bottom: 0px;
+              width: 96%;
+              margin: 0 auto; }
+              .container .wrap .cont01 .c-cont01 .right .image img {
+                width: 100%;
+                height: auto; }
+      .container .wrap .cont02 {
+        margin-top: 15%; }
+        .container .wrap .cont02 h4 img {
+          width: 100%;
+          height: auto; }
+        .container .wrap .cont02 h4:before {
+          display: none; }
+        .container .wrap .cont02 .c-cont02 .left {
+          float: none; }
+        .container .wrap .cont02 .c-cont02 .right {
+          float: none; }
+        .container .wrap .cont02 .c-cont02 .block {
+          width: 100%;
+          border: 1px solid #ff943c;
+          margin-bottom: 4%; }
+          .container .wrap .cont02 .c-cont02 .block .btl {
+            color: #fff;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            background: #ff943c;
+            padding: 2% 0; }
+          .container .wrap .cont02 .c-cont02 .block .c-block {
+            padding: 3%;
+            background: #fff; }
+            .container .wrap .cont02 .c-cont02 .block .c-block .read {
+              font-size: 92.85714%;
+              font-weight: bold; }
+            .container .wrap .cont02 .c-cont02 .block .c-block .gray {
+              font-size: 70%;
+              font-weight: bold;
+              text-align: center;
+              margin-top: 2%;
+              padding: 1px;
+              background: #e2e2e2;
+              border-radius: 10px;
+              -webkit-border-radius: 10px;
+              -moz-border-radius: 10px; }
+            .container .wrap .cont02 .c-cont02 .block .c-block ul {
+              margin: 3% 0 4% 0;
+              padding: 0;
+              width: 100%;
+              height: 70px; }
+              .container .wrap .cont02 .c-cont02 .block .c-block ul li {
+                list-style: none;
+                float: left; }
+                .container .wrap .cont02 .c-cont02 .block .c-block ul li:first-child, .container .wrap .cont02 .c-cont02 .block .c-block ul li:nth-child(2n+1) {
+                  margin-right: 3%; }
+                .container .wrap .cont02 .c-cont02 .block .c-block ul li img {
+                  vertical-align: middle;
+                  margin-right: 5px;
+                  width: 20px;
+                  height: 20px; }
+              .container .wrap .cont02 .c-cont02 .block .c-block ul .list01 {
+                color: #ff9999;
+                margin-bottom: 2%; }
+              .container .wrap .cont02 .c-cont02 .block .c-block ul .list02 {
+                color: #a3cc52;
+                margin-bottom: 2%; }
+              .container .wrap .cont02 .c-cont02 .block .c-block ul .list03 {
+                color: #5cb8e5;
+                margin-bottom: 2%; }
+            .container .wrap .cont02 .c-cont02 .block .c-block .btn {
+              width: 60%;
+              margin: 2% auto; }
+              .container .wrap .cont02 .c-cont02 .block .c-block .btn .ov {
+                display: inline-block;
+                text-align: center;
+                font-weight: bold;
+                line-height: 42px;
+                width: 100%;
+                height: 42px;
+                background: #fff;
+                background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                background-color: #fff;
+                border: 3px solid #ff943c; }
+                .container .wrap .cont02 .c-cont02 .block .c-block .btn .ov img {
+                  vertical-align: middle;
+                  margin-left: 1%; }
+                .container .wrap .cont02 .c-cont02 .block .c-block .btn .ov:hover {
+                  color: #444;
+                  background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                  background-color: #fff; }
+      .container .wrap .cont03 {
+        margin-top: 15%; }
+        .container .wrap .cont03 h4 img {
+          width: 100%;
+          height: auto; }
+        .container .wrap .cont03 h4:before {
+          display: none; }
+        .container .wrap .cont03 .c-cont03 {
+          margin-top: 50px; }
+          .container .wrap .cont03 .c-cont03 .block01 {
+            width: 100%;
+            float: left;
+            border: 1px solid #5cb8e5;
+            background: #fff; }
+            .container .wrap .cont03 .c-cont03 .block01 dt {
+              color: #fff;
+              font-weight: bold;
+              padding: 2% 0;
+              text-align: center;
+              background: #5cb8e5; }
+            .container .wrap .cont03 .c-cont03 .block01 dd {
+              margin: 0;
+              padding: 2%; }
+              .container .wrap .cont03 .c-cont03 .block01 dd .read {
+                font-size: 110%;
+                font-weight: bold;
+                height: 75px;
+                margin-top: 3%; }
+              .container .wrap .cont03 .c-cont03 .block01 dd .yellow {
+                text-align: center;
+                margin-top: 3%; }
+                .container .wrap .cont03 .c-cont03 .block01 dd .yellow span {
+                  display: block;
+                  font-size: 95%;
+                  color: #fff;
+                  width: 30%;
+                  margin: 0 auto;
+                  background: #fbb41a;
+                  border-radius: 10px;
+                  -webkit-border-radius: 10px;
+                  -moz-border-radius: 10px; }
+              .container .wrap .cont03 .c-cont03 .block01 dd .btn {
+                width: 50%;
+                margin: 6% auto 0 auto; }
+                .container .wrap .cont03 .c-cont03 .block01 dd .btn .ov {
+                  display: inline-block;
+                  text-align: center;
+                  font-weight: bold;
+                  line-height: 42px;
+                  width: 100%;
+                  height: 42px;
+                  background: #fff;
+                  background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                  background-color: #fff;
+                  border: 3px solid #ff943c; }
+                  .container .wrap .cont03 .c-cont03 .block01 dd .btn .ov img {
+                    vertical-align: middle;
+                    margin-left: 2%; }
+                  .container .wrap .cont03 .c-cont03 .block01 dd .btn .ov:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                    background-color: #fff; }
+          .container .wrap .cont03 .c-cont03 .block02 {
+            width: 100%;
+            float: left;
+            margin-left: 0;
+            border: 1px solid #ff9999;
+            background: #fff; }
+            .container .wrap .cont03 .c-cont03 .block02 dt {
+              color: #fff;
+              font-weight: bold;
+              padding: 2% 0;
+              text-align: center;
+              background: #ff9999; }
+            .container .wrap .cont03 .c-cont03 .block02 dd {
+              margin: 0;
+              padding: 2%; }
+              .container .wrap .cont03 .c-cont03 .block02 dd .read {
+                font-size: 110%;
+                font-weight: bold;
+                height: 75px;
+                margin-top: 3%; }
+              .container .wrap .cont03 .c-cont03 .block02 dd .yellow {
+                text-align: center;
+                margin-top: 3%; }
+                .container .wrap .cont03 .c-cont03 .block02 dd .yellow span {
+                  display: block;
+                  font-size: 95%;
+                  color: #fff;
+                  width: 30%;
+                  margin: 0 auto;
+                  background: #fbb41a;
+                  border-radius: 10px;
+                  -webkit-border-radius: 10px;
+                  -moz-border-radius: 10px; }
+              .container .wrap .cont03 .c-cont03 .block02 dd .btn {
+                width: 50%;
+                margin: 6% auto 0 auto; }
+                .container .wrap .cont03 .c-cont03 .block02 dd .btn .ov {
+                  display: inline-block;
+                  text-align: center;
+                  font-weight: bold;
+                  line-height: 42px;
+                  width: 100%;
+                  height: 42px;
+                  background: #fff;
+                  background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                  background-color: #fff;
+                  border: 3px solid #ff943c; }
+                  .container .wrap .cont03 .c-cont03 .block02 dd .btn .ov img {
+                    vertical-align: middle;
+                    margin-left: 2%; }
+                  .container .wrap .cont03 .c-cont03 .block02 dd .btn .ov:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                    background-color: #fff; }
+          .container .wrap .cont03 .c-cont03 .block03 {
+            width: 100%;
+            float: left;
+            margin-left: 0;
+            border: 1px solid #a3cc52;
+            background: #fff; }
+            .container .wrap .cont03 .c-cont03 .block03 dt {
+              color: #fff;
+              font-weight: bold;
+              padding: 2% 0;
+              text-align: center;
+              background: #a3cc52; }
+            .container .wrap .cont03 .c-cont03 .block03 dd {
+              margin: 0;
+              padding: 2%; }
+              .container .wrap .cont03 .c-cont03 .block03 dd .read {
+                font-size: 110%;
+                font-weight: bold;
+                height: 75px;
+                margin-top: 3%; }
+              .container .wrap .cont03 .c-cont03 .block03 dd .yellow {
+                text-align: center;
+                margin-top: 3%; }
+                .container .wrap .cont03 .c-cont03 .block03 dd .yellow span {
+                  display: block;
+                  font-size: 95%;
+                  color: #fff;
+                  width: 30%;
+                  margin: 0 auto;
+                  background: #fbb41a;
+                  border-radius: 10px;
+                  -webkit-border-radius: 10px;
+                  -moz-border-radius: 10px; }
+              .container .wrap .cont03 .c-cont03 .block03 dd .btn {
+                width: 50%;
+                margin: 6% auto 0 auto; }
+                .container .wrap .cont03 .c-cont03 .block03 dd .btn .ov {
+                  display: inline-block;
+                  text-align: center;
+                  font-weight: bold;
+                  line-height: 42px;
+                  width: 100%;
+                  height: 42px;
+                  background: #fff;
+                  background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                  background-color: #fff;
+                  border: 3px solid #ff943c; }
+                  .container .wrap .cont03 .c-cont03 .block03 dd .btn .ov img {
+                    vertical-align: middle;
+                    margin-left: 2%; }
+                  .container .wrap .cont03 .c-cont03 .block03 dd .btn .ov:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                    background-color: #fff; } }
+
+/*# sourceMappingURL=support.css.map */

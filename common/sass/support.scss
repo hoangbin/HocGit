@@ -1,0 +1,681 @@
+
+@import 'inc';
+.mv {
+  background: url("/medi-caree/common/img/support/mv.png") no-repeat center;
+}
+.container {
+  font-size: 18px;
+  line-height: 1.8;
+   background: url("/medi-caree/common/img/support/bg.png");
+     .support_h04 {
+        position: relative;
+        font-size: $fz28;
+        text-align: center;
+        line-height: 1.8em;
+        &:before {
+          background-color: #ff943c;
+          content: "";
+          display: block;
+          width: 100px;
+          height: 4px;
+          position: absolute;
+          left: 50%;
+          top: -30px;
+          margin-left: -50px;
+        }
+      }
+  .wrap {
+    padding: 30px 0 20px 0;
+    h3 {
+      text-align: center;
+      font-size: $fz22;
+      line-height: 1.8;
+    }
+    .cont01 {
+      margin-top: 120px;
+      .c-cont01 {
+        position: relative;
+        width: 900px;
+        margin:0 auto;
+        margin-top: 70px;
+        padding: 30px 30px 50px 30px;
+        border: 1px solid #ff943c;
+        background: #fff;
+        .tl01 {
+          position: absolute;
+          top: -53px;
+          left: -20px;
+          color: #fff;
+          text-align: center;
+          font-size: $fz17;
+          width: 600px;
+          padding: 10px 0;
+          background: #fbb41a;
+        }
+        .left {
+          width: 320px;
+          float: left;
+          margin-top: 30px;
+        }
+        .right {
+          width: 530px;
+          float: right;
+          margin-top: 30px;
+          font-size: 13px;
+          table {
+            width: 260px;
+            th {
+              color: #fff;
+              line-height: 1.2em;
+              width: 25px;
+              background: #fbb41a;
+              vertical-align: middle;
+              border-top: 1px solid #fbb41a;
+              border-bottom: 1px solid #fbb41a;
+            }
+            td { 
+              border-top: 1px solid #ccc;
+              height: 30px;
+              vertical-align: middle;
+              padding-left: 5px;
+              &.last {
+                border-bottom: 1px solid #ccc;
+              }
+              &.pink {
+                background: #ffe5e5;
+              }
+              &.gray {
+                background: #f1f1f1;
+              }
+              &.tright {
+                text-align: right;
+                padding-right: 3px;
+              }
+              span { 
+                font-size: 11px;
+              }
+            }
+            &.tbl01 {
+              float: left;
+            }
+            &.tbl02 {
+              float: right;
+            }
+          }
+          .text {
+            display: inline-block;
+            font-size: $fz15;
+            font-weight: bold;
+            margin-top: 30px;
+            background: url("/medi-caree/common/img/support/bg_txt_cont01.png") left bottom  repeat-x;
+            span {
+              font-size: 140%;
+            }
+          }
+          .image {
+            position: absolute;
+            right: 40px;
+            bottom: 40px;
+          }
+        }
+      }
+    }
+    .cont02 {
+      margin-top: 120px;
+    
+      .c-cont02 {
+        .left {
+          float: left;
+        }
+        .right {
+          float: right;
+        }
+        .block {
+          width: 468px;
+          border: 1px solid #ff943c;
+          .btl {
+            color: #fff;
+            text-align: center;
+            font-weight: bold;
+            font-size: $fz23;
+            background: #ff943c;
+            padding: .5em 0;
+          }
+          .c-block {
+            padding: 30px;
+            background: #fff;
+            .read {
+              font-size: $fz14;
+              font-weight: bold;
+            }
+            .gray {
+              font-size: 100%;
+              font-weight: bold;
+              text-align: center;
+              margin-top: 20px;
+              padding: 1px;
+              background: #e2e2e2;
+               border-radius: 10px;
+              -webkit-border-radius: 10px;
+              -moz-border-radius: 10px;
+            }
+            ul {
+              margin: 20px 0 40px 0;
+              padding: 0;
+              width: 100%;
+              height: 70px;
+              li {
+                display: inline-block;
+                font-size: $fz14;
+                list-style: none;
+                 &:first-child , &:nth-child(2n+1){
+                  margin-right: 15px;
+                }
+                img {
+                  vertical-align: middle;
+                  margin-right: 5px;
+                  width: 20px;
+                  height: 20px;
+                }
+              }
+              $list_li: #ff9999 #a3cc52 #5cb8e5;
+              @each $current_li in $list_li {
+              $i: index($list_li, $current_li);
+                .list0#{$i} {
+                  color: $current_li;
+                  margin-bottom: 15px;
+                }
+              }
+            }
+            .btn {
+              font-size: $fz18;
+              width: 250px;
+              margin: 20px auto;
+              .ov {
+                display: inline-block;
+                text-align: center;
+                font-weight: bold;
+                line-height: 42px;
+                width: 250px;
+                height: 42px;
+                background: #fff;
+                background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                background-color: #fff;
+                  border: 3px solid #ff943c;
+                img {
+                  vertical-align: middle;
+                  margin-left: 20px;
+                }
+                &:hover {
+                  color: #fff;
+                  background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+                  background-color: #ff943c;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .cont03 {
+      margin-top: 100px;
+      .c-cont03 {
+        margin-top: 50px;
+        $list_dl:  #5cb8e5 #ff9999 #a3cc52;
+        @each $current_dl in $list_dl {
+        $i: index($list_dl, $current_dl);
+          .block0#{$i} {
+            width: 290px;
+            float: left;
+            @if($i !=3) {
+              margin-right: 50px;
+            }
+            border: 1px solid $current_dl;
+            background: #fff;
+            dt {
+              color: #fff;
+              font-size: $fz16;
+              font-weight: bold;
+              padding: 10px 0;
+              text-align: center;
+              background: $current_dl
+            }
+            dd {
+              margin: 0;
+              padding: 25px;
+              .read {
+                font-size: $fz14;
+                font-weight: bold;
+                height: 75px;
+              }
+              .yellow {
+                text-align: center;
+                margin-top: 25px;
+                span {
+                  display: block;
+                  font-size: $fz15;
+                  color: #fff;
+                  width: 116px;
+                  margin: 0 auto;
+                  background: #fbb41a;
+                  border-radius: 10px;
+                  -webkit-border-radius: 10px;
+                  -moz-border-radius: 10px;
+                }
+              }
+              .btn {
+                width: 220px;
+                margin: 40px auto 0 auto;
+                .ov {
+                  display: inline-block;
+                  text-align: center;
+                  font-size: $fz18;
+                  font-weight: bold;
+                  line-height: 42px;
+                  width: 220px;
+                  height: 42px;
+                  background: #fff;
+                  background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                  background-color: #fff;
+                  border: 3px solid #ff943c;
+                  img {
+                    vertical-align: middle;
+                    margin-left: 20px;
+                  }
+                  &:hover {
+                    color: #fff;
+                    background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+                    background-color: #ff943c;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .bonus {
+      margin: 120px 0 100px 0;
+      text-align: center;
+      h4 {
+        font-size: $fz30;
+        text-align: center;
+        line-height: 1.8em;
+        span {
+          color: #ff943c;
+        }
+      }
+      .read {
+        font-size: $fz14;
+        line-height: 1.8;
+        margin-bottom: 50px;
+        text-align: justify;
+      }
+      .phone {
+        display: inline-block;
+        font-size: $fz25;
+        img {
+          vertical-align: middle;
+        }
+      }
+      .mail {
+        display: inline-block;
+        font-size: $fz16;
+        margin-left: 60px;
+        span {
+          display: inline-block;
+          text-align: center;
+          width: 250px;
+          padding: 8px 0;
+          background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+          background-color: #fff;
+          border: 3px solid #ff943c;
+          &:hover {
+            color: #fff;
+            background: #ff943c url("/medi-caree/common/img/shared/icon_new_window_white.png") right 20px center no-repeat;
+            background-color: #ff943c;
+            i{
+              color: #fff;
+            }
+          }
+          i{
+            font-size: 25px;
+            vertical-align: middle;
+            color: #ff943c;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width:768px) {
+      .mv {
+    min-width: 100%;
+    background: none;
+    padding: 0;
+    .wrap{
+      width: 100%;
+      padding: 0;
+      img {
+      width: 100%;
+      height: auto;
+      }
+    }
+    
+  }
+  .container {
+    font-size: $fz16;
+    .wrap {
+      width: 94%;
+      margin: 0 auto;
+      padding: 4% 3% 10% 3%;
+      h3 {
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+      .cont01 {
+        margin-top: 10%;
+        h4 {
+          margin-bottom: 15%;
+          img {
+            width: 100%;
+            height: auto;
+          }
+          &:before {
+            display: none;
+          }
+        }
+        .c-cont01 {
+          position: relative;
+          width: 90%;
+          margin: 0 auto;
+          margin-top: 7%;
+          padding: 3% 2% 5% 2%;
+          border: 1px solid #ff943c;
+          background: #fff;
+          .tl01{
+            top: -53px;
+            left: -20px;
+            color: #fff;
+            text-align: center;
+            font-size: 18px;
+            width: 90%;
+            padding: 0;
+            background: none;
+            img {
+              width: 100%;
+              height: auto;
+            }
+          }
+          .left {
+            width: 100%;
+            float: none;
+            margin-top: 8%;
+            img {
+              width: 100%;
+              height: auto;
+            }
+          }
+          .right {
+            width: 100%;
+            float: none;
+            margin-top: 5%;
+            font-size: 80%;
+            table {
+              width: 96%;
+              margin: 0 auto;
+              margin-bottom: 4%;
+              th {
+                color: #fff;
+                line-height: 1.2em;
+                width: 25px;
+                background: #fbb41a;
+                vertical-align: middle;
+                border-top: 1px solid #fbb41a;
+                border-bottom: 1px solid #fbb41a;
+              }
+              td { 
+                border-top: 1px solid #ccc;
+                height: 30px;
+                vertical-align: middle;
+                padding-left: 5px;
+                &.last {
+                  border-bottom: 1px solid #ccc;
+                }
+                &.pink {
+                  background: #ffe5e5;
+                }
+                &.gray {
+                  background: #f1f1f1;
+                }
+                &.tright {
+                  text-align: right;
+                  padding-right: 3px;
+                }
+                &.none {
+                  display: none;
+                }
+                span { 
+                  font-size: 11px;
+                }
+              }
+              &.tbl01 {
+                float: none;
+              }
+              &.tbl02 {
+                float: none;
+              }
+            }
+            .text {
+              display: none;
+            
+            }
+            .image {
+              position: relative;
+              right: 0px;
+              bottom: 0px;
+              width: 96%;
+              margin: 0 auto;
+              img {
+                width: 100%;
+                height: auto;
+              }
+            }
+          }
+        }
+      }
+      .cont02 {
+      margin-top: 15%;
+      h4 {
+         img {
+          width: 100%;
+          height: auto;
+         }
+        &:before {
+          display: none;
+        }
+      }
+      .c-cont02 {
+        .left {
+          float: none;
+        }
+        .right {
+          float: none;
+        }
+        .block {
+          width: 100%;
+          border: 1px solid #ff943c;
+          margin-bottom: 4%;
+          .btl {
+            color: #fff;
+            text-align: center;
+            font-weight: bold;
+            font-size: 100%;
+            background: #ff943c;
+            padding: 2% 0;
+          }
+          .c-block {
+            padding: 3%;
+            background: #fff;
+            .read {
+              font-size: $fz13;
+              font-weight: bold;
+            }
+            .gray {
+              font-size: 70%;
+              font-weight: bold;
+              text-align: center;
+              margin-top: 2%;
+              padding: 1px;
+              background: #e2e2e2;
+               border-radius: 10px;
+              -webkit-border-radius: 10px;
+              -moz-border-radius: 10px;
+            }
+            ul {
+              margin: 3% 0 4% 0;
+              padding: 0;
+              width: 100%;
+              height: 70px;
+              li {
+                list-style: none;
+                float: left;
+                &:first-child , &:nth-child(2n+1){
+                  margin-right: 3%;
+                }
+                img {
+                  vertical-align: middle;
+                  margin-right: 5px;
+                  width: 20px;
+                  height: 20px;
+                }
+              }
+              $list_li: #ff9999 #a3cc52 #5cb8e5;
+              @each $current_li in $list_li {
+              $i: index($list_li, $current_li);
+                .list0#{$i} {
+                  color: $current_li;
+                  margin-bottom: 2%;
+                }
+              }
+            }
+            .btn {
+              width: 60%;
+              margin: 2% auto;
+              .ov {
+                display: inline-block;
+                text-align: center;
+                font-weight: bold;
+                line-height: 42px;
+                width: 100%;
+                height: 42px;
+                background: #fff;
+                background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                background-color: #fff;
+                  border: 3px solid #ff943c;
+                img {
+                  vertical-align: middle;
+                  margin-left: 1%;
+                }
+                &:hover {
+                  color: #444;
+                  background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                  background-color: #fff;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .cont03 {
+      margin-top: 15%;
+       h4 {
+          img {
+            width: 100%;
+            height: auto;
+          }
+        &:before {
+          display: none;
+        }
+      }
+      .c-cont03 {
+        margin-top: 50px;
+        $list_dl:  #5cb8e5 #ff9999 #a3cc52;
+        @each $current_dl in $list_dl {
+        $i: index($list_dl, $current_dl);
+          .block0#{$i} {
+            width: 100%;
+            float: left;
+            @if($i !=1) {
+              margin-left: 0;
+            }
+            border: 1px solid $current_dl;
+            background: #fff;
+            dt {
+              color: #fff;
+              font-weight: bold;
+              padding: 2% 0;
+              text-align: center;
+              background: $current_dl
+            }
+            dd {
+              margin: 0;
+              padding: 2%;
+              .read {
+                font-size: 110%;
+                font-weight: bold;
+                height: 75px;
+                margin-top: 3%;
+              }
+              .yellow {
+                text-align: center;
+                margin-top: 3%;
+                span {
+                  display: block;
+                  font-size: 95%;
+                  color: #fff;
+                  width: 30%;
+                  margin: 0 auto;
+                  background: #fbb41a;
+                  border-radius: 10px;
+                  -webkit-border-radius: 10px;
+                  -moz-border-radius: 10px;
+                }
+              }
+              .btn {
+                width: 50%;
+                margin: 6% auto 0 auto;
+                .ov {
+                  display: inline-block;
+                  text-align: center;
+                  font-weight: bold;
+                  line-height: 42px;
+                  width: 100%;
+                  height: 42px;
+                  background: #fff;
+                  background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                  background-color: #fff;
+                  border: 3px solid #ff943c;
+                  img {
+                    vertical-align: middle;
+                    margin-left: 2%;
+                  }
+                  &:hover {
+                    color: #444;
+                    background: #fff url("/medi-caree/common/img/shared/icon_new_window_black.png") right 20px center no-repeat;
+                    background-color: #fff;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    }
+  }
+}

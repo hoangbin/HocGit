@@ -1,0 +1,347 @@
+@charset "UTF-8";
+@import 'inc';
+
+body {
+  font: 14px/1.8em Arial, Helvetica, "游ゴシック", "Yu Gothic", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  color: #444;
+}
+
+.clearfix {
+  &:before {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+
+  *zoom: 1;
+}
+p {
+  margin:0;
+  padding:0;
+}
+a {
+  text-decoration: none;
+  color: #444;
+}
+.color_text {
+  color: #ff943c;
+}
+.fnav {
+  display: none ;
+}
+.mv {
+  font-size: $fz21;
+  line-height: 1.8;
+  width: 100%;
+  min-width: 1000px;
+  padding-top: 30px 0;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+  .wrap {
+    color: #fff;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0 30px 0;
+    .txt_catch {
+      .txt {
+        margin-top: 30px;
+      }
+    }
+  }
+}
+.container {
+  width: 100%;
+  min-width: 1000px;
+  .wrap {
+    width: 1000px;
+    margin: 0 auto;
+  }
+  .cont_h03 {
+    font-size: $fz30;
+    line-height: 1.8;
+    text-align: center;
+    margin: 0;
+  }
+}
+.hover-no-js {
+  &:hover {
+    opacity: 0.7;
+  }
+}
+$list_mt: 5 10 15 20 25 30 35 40 50 60 70;
+@each $current_mt in $list_mt {
+  $i: index($list_mt, $current_mt);
+  .mt#{$current_mt} {
+    margin-top: #{$current_mt}px;
+  }
+}
+.sp {
+  display: none;
+}
+.header {
+  width: 100%;
+  min-width: 1000px;
+  background: #fff;
+  .top-header {
+    .wrap {
+      width: 1000px;
+      margin: 0 auto;
+      padding: 20px 0;
+      .tLeft {
+        width: 500px;
+        float: left;
+        .logo-img{
+          display: inline-block;
+          width: 235px;
+          margin-right: 10px;
+          img {
+            width: 100%;
+            height: auto;
+          }
+        }       
+        .header-tl {
+          display: inline-block;
+        }
+      }
+      .tRight {
+        width: 310px;
+        float: right;
+        margin-top: 10px;
+        ul {
+          width: 100%;
+          margin: 0;
+          padding: 0;
+          li {
+            font-size: 15px;
+            font-weight: bold;
+            float: left;
+            list-style: none;
+            margin-left: 15px;
+            *margin-left: 10px;
+            img {
+              vertical-align: top;
+              margin-left: 3px;
+            }
+            .link-text{
+              margin-right: 10px;
+              &:after {
+                content: "";
+                position: absolute;
+                width: 10px;
+                height: 7px;
+                background: url("/medi-caree/common/img/shared/icon_new_window_black.png") no-repeat;
+              }
+              &:hover {
+                color: #ff9e4f;
+                 &:after {
+                  background: url("/medi-caree/common/img/shared/icon_new_window_on.png") no-repeat;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .menu {
+    line-height: 40px;
+    height: 40px;
+    background: url("/medi-caree/common/img/shared/bg_menu.png");
+    .wrap{
+      width: 1000px;
+      margin: 0 auto;
+      .gnav {
+        width: 680px;
+        float: left;
+        margin: 0;
+        padding: 0;
+        li {
+          color: #fff;
+          float: left;
+          margin-left: 40px;
+          list-style: none;
+          &:first-child {
+            margin-left: 0;
+          }
+          a {
+            color: #fff;
+            &:hover {
+             color: #ffff00; 
+            }
+            &.active {
+             color: #ffff00;
+            }
+          }
+        }
+      }
+      .nav02 {
+        float: right;
+        width: 320px;
+        margin: 0;
+        padding: 0;
+        background: #63d195;
+        li {
+          color: #fff;
+          list-style: none;
+          float: left;
+          margin-left: 30px;
+          &:first-child {
+            margin-left: 20px;
+          }
+          img {
+            vertical-align: middle;
+            &.ov_window {
+              margin:-10px 0 3px 0;
+            }
+          }
+          a {
+            position: relative;
+            color: #fff;
+            span {
+               &:after {
+              content: "";
+              position: absolute;
+              top: -1px;
+              right: -12px;
+              width: 10px;
+              height: 7px;
+              background: url("/medi-caree/common/img/shared/icon_new_window_white.png") no-repeat;
+              }
+            }
+           &:hover {
+             color: #ffff00; 
+             span {
+               &:after {
+                  background: url("/medi-caree/common/img/shared/icon_window_on02.png") no-repeat;
+              }
+            }
+           }
+           &.h-link01 {
+              margin-right: 10px;
+              &:before {
+                content: "";
+                position: relative;
+                top: 5px;
+                display: inline-block;
+                width: 16px;
+                height: 20px;
+                margin-right: 5px;
+                background: url("/medi-caree/common/img/shared/icon01.png") no-repeat;
+                background-size: 100% 100%;
+
+              }
+              &:hover {
+                &:before {
+                  background: url("/medi-caree/common/img/shared/icon01_on.png") no-repeat;
+                }
+              }
+            }
+             &.h-link02 {
+              &:before {
+                content: "";
+                position: relative;
+                top: 5px;
+                display: inline-block;
+                width: 17px;
+                height: 21px;
+                margin-right: 5px;
+                background: url("/medi-caree/common/img/shared/icon02.png") no-repeat;
+                background-size: 100% 100%;
+
+              }
+              &:hover {
+                &:before {
+                  background: url("/medi-caree/common/img/shared/icon02_on.png") no-repeat;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.footer {
+  min-width: 1000px;
+  background: #fff;
+  .cont-foot01 {
+
+    width: 100%;
+    background: #fff1e5;
+    padding: 30px 0 0px 0;
+    .wrap {
+      width: 1000px;
+      margin: 0 auto;
+      .photo {
+        margin:0 0 50px 0;
+      }
+    }
+    .slide {
+      position: relative;    
+      margin: 0 auto;
+      overflow: (hidden !important) ;
+    .slideshow-pc{
+      margin: 0 auto;
+      padding: 0;
+     }
+    }
+     .top {
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px 0;
+    a {
+      color: #ff943c
+    }
+  }
+  }
+  .cont-foot02 {
+    width: 100%;
+    background: #fff;
+    padding-top: 48px;
+    .info {
+      width: 1000px;
+      margin: 0 auto;
+      text-align: center;
+      .c-info {
+        text-align: center;
+        ul {
+          display: inline-block;
+          zoom: 1;
+          _display: inline;
+          margin: 0;
+          li {
+            display: inline;
+            font-size: 18px;
+            font-weight: bold;
+            float: left;
+            list-style: none;
+            margin-left: 25px;
+            &.first {
+            margin-left: 0
+            }
+            img {
+            vertical-align: middle;
+            }
+          }
+        }
+      }
+    }
+  }
+  .all-right {
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    background: #ff943c;
+    padding: 15px 0;
+    margin-top: 40px;
+  }
+}
